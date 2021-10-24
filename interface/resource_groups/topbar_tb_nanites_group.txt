@@ -17,6 +17,15 @@ tb_nanites_group = {
 			sr_comms
 			sr_logistics
 			
+		#Ancient Cache of Technologies
+			acot_sr_dark_energy
+			acot_sr_light_matter
+			acot_sr_stellarite
+
+		#Ancient Cache of Technologies New
+			acot_sr_bandwidth
+			acot_sr_essence
+		
 		#APSR Anomalies, Planetary and Space Resources
 			apsr_knowledge	
 		
@@ -213,6 +222,11 @@ tb_nanites_group = {
 		#Smutty Space Ponies
 			magic_crystals
 			
+		# Solar Storm
+			sr_muonic_hydrogen
+			sr_quantanium
+			sr_hypernuclear
+
 		#Space Monsters
 			spacemonster_supertissue
 		
@@ -377,11 +391,6 @@ tb_nanites_group = {
 			sr_infinity_stone_power
 			sr_infinity_stone_mind
 			
-		#The Zenith of Fallen Empires: Ancient Cache of Technology
-			acot_sr_dark_energy
-			acot_sr_light_matter
-			acot_sr_stellarite
-		
 		#Transformers: War for Cybertron Portraits
 			energon
 			dark_energon
