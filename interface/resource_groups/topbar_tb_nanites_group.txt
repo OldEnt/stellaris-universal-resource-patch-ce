@@ -2,506 +2,1099 @@
 tb_nanites_group = {
 	resources = {
 		nanites
-		#AlphaMod
-			sr_actinides
-			sr_biomass
-			sr_electronics
-			sr_ice
-			sr_natural_fuels
-			sr_plastics
-			sr_precious_stones
-			sr_protomatter
-			sr_rare_metals
-			sr_wealth
-			sr_waste
-			sr_comms
-			sr_logistics
-			
-		#Ancient Cache of Technologies
-			acot_sr_dark_energy
-			acot_sr_light_matter
-			acot_sr_stellarite
-
-		#Ancient Cache of Technologies New
-			acot_sr_bandwidth
-			acot_sr_essence
-		
-		#APSR Anomalies, Planetary and Space Resources
-			apsr_knowledge	
-		
-		#Arknights Near Future
-			originiums
-			d32_steels
-			multipole_nanosheets	
-		
-		#AshArms Distant Future
-			sr_crystal_adf
-			sr_parts_adf
-			
-		#Automatic Market Economy
-			sr_investment
-			
-		#Azur Lane Stellaris Mod
-			mind_club
-			azur_shippartbox
-			azur_red_diamond
-			
-		#Cartman's Jobs and Buildings
-			medicine
-		
-		#Civic Expanded
-			sr_warped_matter
-			
-		#Complex Organic Structures
-			#Forgotten queens
-			larva
-				
-		#Diplomatic Ventures
-			diplodrugs
-			diploforce
-			
-		#Empyreal Ascension
-			empy_exotic_matter
-			
-		#ESC
-			esc_enigmatic_energy
-			esc_gravitic_anomaly
-			esc_living_crystal
-			esc_psionic_charge
-			esc_transdimensional_vortex
-			
-		#Event Horizon Offset Facility
-			ehof_sr_negative_mass
-			ehof_sr_sentient_metal
-			
-		#Fantastical Magiks
-			manacite
-			
-		#Few New Civics
-			unfertilized_eggs
-			fertilized_eggs
-			
-		#Fight For Universe: Infinite Legacy
-			riggan
-			sr_light_gases
-			sr_natural_liquids
-			sr_garanthium
-			sr_lythuric
-			sr_engos
-			sr_teldar
-			sr_pitharan
-			sr_orillium
-			sr_neutronium
-			sr_betharian
-			sr_alien_pets
-			sr_satramene
-			
-		#Gigastructural Engineering & More
-			sr_iodizium
-			sr_solar_energy
-			sr_magical_neutronium
-			sr_psionic_sublimate
-			
-		#Girls'Frontline
-			corechip
-			
-		#Guilli's Planet Modifiers
-			#gpm_arcane_technology
-			
-		#Gwen's Additional Play Styles
-			sr_GAPS_psychic_power
-			sr_GAPS_water
-		
-		#History of the Lost Empire
-			sr_strange_matter_LsE
-			sr_pieces_data_LsE
-			
-		#Honkai3rd Species Mod
-			honkai_energy
-			
-		#Horizons Expanded
-			zzzZaath_Resources
-			Zdecadence
-			ZPsionicPower
-		#Human Fallen Empires
-			hfe_sr_micro_robots
-			
-		#Hypothetical Stars
-			sr_antimatter
-			sr_quark_gluon_plasma
-			sr_strange_matter
-			
-		#imba touhou species
-			sr_lingli
-			sr_fuka
-			
-		#Interdimensional Authority Civic
-			sr_spacetime_stability
-			
-		#KamenRiderMod
-			sr_energybottle
-			sr_ocoin
-			
-		#LLX's Mods - Dirty Jobs
-			salt_crystals
-			sweets
-			clean_coal
-			fossil_fuels
-			polution
-			toys
-			electronics
-			rare_minerals
-			gold
-			military_electronics			
-					
-		#Madoka Magica
-			grief_seed
-			grief_cube
-			
-		#Mass Effect: Asari
-			mec_biotics
-		
-		#Mass Effect: Crucible
-			helium_3
-            element_zero
-				
-		#Megastructure Logistics
-			sr_megalogistic
-		
-		#Mind Uploading
-			uploaded_pops
-			
-		#Mobile Suit Gundam Stellaris
-			cybernewtypes
-			efsf_pilots
-			efsf_ace_pilots		
-			luna_titanium
-			mobile_suits
-			newtypes
-			zeon_pilots
-			zeon_ace_pilots
-		
-		#No Game No Life ExMachina Species mod/游戏人生机凯种种族mod
-			sr_jingling
-			
-		#Origin Beings
-			sr_quartz_crystals
-			r_dilithium_crystals
-		
-		#Planetary Curios
-			luminescent_ferns
-			
-		#Planetary Diversity
-			sr_eludium
-			sr_acean
-			sr_rad_bloom
-			sr_tiyanki_parts
-			
-		#Real Industrial Chain
-			rlc_raw_material
-			rlc_light_substance
-			rlc_machine_part
-			rlc_electronic_component
-			rlc_fuel
-			rlc_pharmaceuticals
-			rlc_alloys
-			rlc_advanced_part
-			rlc_advanced_fuel	
-			
-		#Reaper civilization: ancient Vault
-			Tasrydine
-			stable_antimatte
-			Adamantium
-			
-		#Robot civic-Paperclip Maximizer	
-			dsa_paperclips	
-			
-		#Slightly More Realistic Alloys, Minerals, and Consumer Goods (SMRAMCG)	
-			commercial_materials
-			
-		#Smutty Space Ponies
-			magic_crystals
-			
-		# Solar Storm
-			sr_muonic_hydrogen
-			sr_quantanium
-			sr_hypernuclear
-
-		#Space Monsters
-			spacemonster_supertissue
-		
-		#Space Whaling
-			tiyanki_milk
-			
-		#Species Engineering
-			leng_breeder	
-			
-		#Stargate Universe
-			sr_ancient_zpm
-		
-		#Star Trek: New Civilisations
-			dilithium
-			deuterium
-			components
-			ketracel_white
-			latinum
-			
-		#ST: New Horizons
-			sr_dilithium
-			sr_dilithium_raw
-			sr_dilithium_processed
-			sr_cpm
-			sr_ketracel_white
-			sr_crew
-			sr_latinum
-			sr_water
-			sr_boronite
-			sr_deuterium
-			sr_brizeen
-			sr_topaline
-			sr_tallonian
-			sr_kemocite
-			sr_magnesite
-			sr_trellium
-			sr_pergium
-			sr_neutronium
-			sr_cordrazine
-			sr_luxuries
-			sr_duranium
-			sr_time_crystal
-			
-		#Star Wars Universe Army Types
-			sw_credit
-			private_sector_sw_credit
-			swua_kyber_crystal
-			ionized_tibanna_gas
-			high_quality_tibanna_gas
-			low_quality_tibanna_gas
-			swua_energy_cells
-			blastech_weapons
-			jedi_robes
-			sith_robes
-			fett_dna
-			fett_dna_empire
-			fett_dna_ku
-			clone_troopers
-			clone_troopers_empire
-			clone_troopers_ku
-			phase_1_armor
-			phase_1_armor_ku
-			phase_2_armor
-			phase_2_armor_empire
-			specialized_clone_armor
-			specialized_clone_armor_empire
-			specialized_clone_armor_ku
-			at_rt_variants
-			at_rt_variants_empire
-			at_rt_variants_ku
-			at_rt_variants_rebellion
-			tx_130_variants
-			tx_130_variants_empire
-			tx_130_variants_ku
-			tx_130_variants_rebellion
-			at_te_variants
-			at_te_variants_empire
-			at_te_variants_ku
-			at_te_variants_rebellion
-			laat_variants
-			laat_variants_empire
-			laat_variants_ku
-			laat_variants_rebellion
-			imperial_citizen
-			imperial_uniforms
-			rebel_cells
-			first_order_citizen
-			first_order_uniforms
-			first_order_armor
-			resistance_cells
-						
-		#Star Wars Weapons
-			kyber_crystals
-			tibanna_gas
-		
-		#Starwars:UnknownWorld Shipgirls Story
-			sr_kyber_swgs
-			sr_tibanna_swgs
-			
-		#Stellaris #MODJAM2020
-			sr_null
-			
-		#Stephan's Elemental Economy
-			sr_hydrogen
-			sr_helium_3
-			sr_carbon
-			sr_ammonia
-			sr_oxygen
-			sr_water
-			sr_noble_gases
-			sr_silicon
-			sr_transition_metals
-			sr_rare_earth_metals
-			
-		#Stella Magica
-			stella_grief_cube
-			
-		#Stellaris: Tiberium Wars
-			sr_tiberium_green
-			sr_tiberium_blue
-			sr_tiberium_liquid	
-		
-		#Strange_Energies
-			SE_strange_matter
-		
-		#SW: Fallen Republic
-			sr_hypermatter
-			sr_tibanna_gas
-			sr_laser_cells
-			sr_plasma_cells
-			sr_ordnance
-			sr_starfighter_parts
-			sr_hyperfuel
-			sr_focus
-			sr_bacta
-			sr_sw_spice
-			sr_agrocite
-			sr_kyber
-		
-		#Thaumstellaris
-			tc_essences
-			tc_element_shard
-			tc_thaumium
-			tc_void_metal
-			tc_knowledge_fragment
-			
-		#The Decadence of Sanity--An Expanded Feature on Shroud
-			yin
-			
-		#The Empty Vagrant
-			manpower
-			
-		#The Holy Matriarch LV addons
-			sr_mat_lv_exotic_fauna
-			sr_WL_lv_exotic_fauna
-			
-		#The Infinity Stones
-			sr_infinity_stone_soul
-			sr_infinity_stone_reality
-			sr_infinity_stone_time
-			sr_infinity_stone_space
-			sr_infinity_stone_power
-			sr_infinity_stone_mind
-			
-		#Transformers: War for Cybertron Portraits
-			energon
-			dark_energon
-			
-		#Twinks
-			virtue
-			ancient_knowldege
-			ambrosia
-			eternium
-			void_matter
-			favour
-			techcaches
-			arcane_power_tw
-			
-		#United We Stand!
-			biomass
-			sc_mineral
-			vespene_gas
-			#Clone Armies
-				dna
-			#I am grunt
-				able_bodied_recruit
-				basic_officer
-				basic_solider
-				kinetic_ammo
-				military_equipment
-				plate_armor
-				vehicle_chasis
-				small_arms
-				supplies
-				combustible_mg_fuel
-				spare_parts
-			#Robot Armies
-				robotic_chasis	
-			#Take me to your leader
-				air_energy
-				dark_energy
-				earth_energy
-				fire_energy
-				gold_coins
-				light_energy
-				mind_energy
-				water_energy
-				xeno_abled_bodies
-				arcane_energy	
-				
-		#Unique Ascension Perks
-			automatic_drone
-			treasures
-			anti_matter
-			
-		#!Unofficial Machine Intelligence DLC
-			machinedlc_processing_capacity
-			machinedlc_processing_demand
-			
-		#Upper Limit
-			planetary_industry_equipments
-			#rift_matter
-			resource_starcore
-			resource_illunia
-			
-		#Universal Paperclips
-			sr_paperclips	
-		
-		#V-Mods - Species
-			vmods_spice
-			
-		#WAAAGH - Ork Psychic Field Civic
-			 sr_waaagh
-		
-		#Warship Girls R And MIST Species
-			sr_pantsu
-			sr_neo
-			sr_alpha
-			sr_se
-			
-		#xilin_empire
-			life_tree_seed	
-			
-		#Mod unknown
-			sr_hongjianjian
-			mtp_tanatnim
-			mtp_elementenzyme
-			mtp_soulence
-			ukn_neutronium
-			ukn_electroweak_matter
-			ukn_quasi_matter
-			ukn_exotic_matter
-			ukn_exions
-			ukn_e3z0
-			ukn_tachyons
-			
-		#碧蓝航线
-			sr_mofang
-			
-		#舰队collection
-			sr_tanatonium
-		
-		#【少女前线GirlsFrontline】涅托种族事件包NytoSpeciesEventsPack
-			GF_nyto_collapse_liquid
-			GF_nyto_dark_star_core
-			
-		#崩坏3rd（honkai 3rd）
-			honkai648_energy
+		# "vanilla"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# alloys
+		# consumer_goods
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "688086068	ST: New Horizons"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# alloys
+		# consumer_goods
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# minor_artifacts
+		sr_latinum
+		sr_crew
+		sr_dilithium
+		sr_dilithium_raw		# old
+		sr_dilithium_processed		# old
+		sr_cpm		# old
+		sr_ketracel_white		# old
+		sr_water
+		sr_brizeen
+		sr_deuterium
+		sr_luxuries
+		sr_cordrazine
+		sr_duranium
+		sr_tallonian
+		sr_kemocite
+		sr_topaline
+		sr_magnesite
+		sr_boronite
+		sr_time_crystal
+		sr_trellium
+		sr_pergium
+		# "790903721	Mass Effect Civilizations - Asari"
+		mec_biotics
+		# "812896318	V-Mods Species"
+		# time
+		vmods_spice
+		# "819148835	Planetary Diversity"
+		sr_eludium
+		sr_acean
+		sr_rad_bloom
+		sr_tiyanki_parts
+		# "865247251	Big Build!"
+		dajian_cube
+		# "910751973	Hypothetical Stars"
+		sr_strange_matter
+		sr_quark_gluon_plasma
+		sr_antimatter
+		# "1106707984	Macross S"
+		fold_quartz
+		# "1121692237	Gigastructural Engineering & More (3.1)"
+		sr_iodizium
+		sr_solar_energy
+		sr_magical_neutronium
+		sr_psionic_sublimate
+		ehof_sr_negative_mass
+		ehof_sr_sentient_metal
+		# "1201101764	dalao"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# consumer_goods
+		# alloys
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "1313138123	No limit for # influence"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# consumer_goods
+		# alloys
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "1346877266	APSR: Anomalies, Planetary and Space Resources"
+		apsr_knowledge
+		# "1419304439	Ancient Cache of Technologies"
+		acot_sr_dark_energy
+		acot_sr_stellarite
+		acot_sr_light_matter
+		# "1561467507	Supergalactica Neptunia - Gamalaticania Universe"
+		sr_ltd_firaxus_gas
+		sr_ltd_kiraxus_gas
+		sr_ltd_firaxus_energy
+		sr_ltd_neptunium_material
+		sr_ltd_spaceship_crew
+		sr_ltd_manpower_crew
+		sr_ltd_share_energy
+		ltd_karma_source
+		sr_ltd_aiko_manju
+		sr_ltd_planeptunium_energy
+		sr_ltd_planeptunium_material
+		# "1603330813	Ecology Mod"
+		waste
+		# "1617872589	Azur Lane Stellaris DLC"
+		azur_pr_patch
+		mind_club
+		azur_shippartbox
+		azur_red_diamond
+		# "1641807098	Expanded Events"
+		# nanites
+		# "1657016929	The Infinity Stones"
+		sr_infinity_stone_soul
+		sr_infinity_stone_mind
+		sr_infinity_stone_reality
+		sr_infinity_stone_power
+		sr_infinity_stone_time
+		sr_infinity_stone_space
+		# "1690425831	The DAL Species Mod约会大作战种族"
+		datealive_crystals
+		# "1695559328	Species Engineering"
+		leng_breeder
+		# "1712760331	~ StarNet AI"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# consumer_goods
+		# alloys
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# starnet_spice_melange
+		# "1747099270	Warship Girls R And MIST Species"
+		sr_wg_crisis_point
+		sr_pantsu
+		sr_neo
+		sr_alpha
+		sr_se
+		sr_ring
+		sr_wg_up
+		# sr_wg_crisis_point
+		sr_wg_down
+		sr_huaji
+		sr_sh
+		sr_wsg
+		# "1764375600	Stellaris Tiberium Wars"
+		sr_tiberium_green
+		sr_tiberium_blue
+		sr_tiberium_liquid
+		# "1800624677	( Twinks Kaldorei )"
+		arcane_power_tw
+		# "1831886007	Underground Realms"
+		malice
+		# sr_zro
+		# "1834433554	!!!!!! 东方繁星录 special touhou species "
+		sr_lingli
+		sr_fuka
+		# "1872866100	Air Superiority Strike Craft Overhaul"
+		Pilots
+		# "1878276758	Stellaris on Speed"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# consumer_goods
+		# alloys
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "1885775216	Extra Ship Components 3.0 [Actual]"
+		esc_psionic_charge
+		esc_gravitic_anomaly
+		esc_living_crystal
+		esc_transdimensional_vortex
+		esc_enigmatic_energy
+		# "1886496498	Star Trek: New Civilisations"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# alloys
+		# consumer_goods
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# minor_artifacts
+		# menace
+		components
+		dilithium
+		deuterium
+		crew
+		latinum
+		ketracel_white
+		photonic_capacity
+		unobtainium
+		# nanites
+		# "1932537174	The Empty Vagrant 太虚流浪"
+		manpower
+		# "1939754080	!Larabee's Modified Star Wars Weapons"
+		kyber_crystals
+		tibanna_gas
+		# "1995601384	!!Ariphaos Unofficial Patch (3.1)"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# consumer_goods
+		# alloys
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "2020164764	碧蓝航线"
+		sr_hongjianjian
+		sr_mofang
+		sr_wuyan
+		# "2027001560	Madoka Magica NEW"
+		grief_cube
+		shoujo_army
+		# "2050740686	fix"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# consumer_goods
+		# alloys
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "2068768158	少女前线（Girls Frontline）群星故事集(正史线：危机联合)"
+		corechip
+		# "2070082709	【少女前线GirlsFrontline】涅托种族事件包NytoSpeciesEventsPack"
+		GF_nyto_collapse_liquid
+		GF_nyto_diamonds
+		GF_nyto_superconducting_kinetic_energy
+		GF_nyto_superconducting_potential_energy
+		GF_nyto_black_card
+		GF_nyto_doll_manufacturing_contract
+		GF_nyto_rapid_manufacturing_contract
+		GF_nyto_core
+		GF_nyto_quick_fix_contract
+		GF_nyto_training_materials
+		GF_nyto_fast_track_contract
+		GF_nyto_mental_fragments
+		GF_nyto_new_fire_control_unit
+		GF_nyto_power_of_attorney
+		GF_nyto_dark_star_core
+		GF_nyto_superstar_core
+		GF_nyto_developing_petri_dishes
+		GF_nyto_training_key
+		# "2079398322	( Twinks Atlanteans )"
+		favour
+		# "2090272238	Omega Modpack Compatibility"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# alloys
+		# consumer_goods
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "2116422940	Star Wars: UnknownWorld Shipgirls Story"
+		sr_kyber_swgs
+		sr_tibanna_swgs
+		# "2174082869	舰队collection：镇守府星际大冒险（Kancolle）"
+		sr_tanatonium
+		# "2192864662	New Government Mod [JP]"
+		ngm_order_of_merit
+		# "2201087394	New Government Mod [EN]"
+		# ngm_order_of_merit
+		# "2218870708	崩坏3rd（honkai 3rd）"
+		honkai648_energy
+		# "2234187039	History of the Lost Empire"
+		sr_strange_matter_LsE
+		sr_pieces_data_LsE
+		# "2266123694	Diplomacy # influence and Civics Change"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# alloys
+		# consumer_goods
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "2271530138	AshArms Distant Future 2200"
+		sr_crystal_adf
+		sr_parts_adf
+		# "2290797357	No Game No Life ExMachina Species mod/游戏人生机凯种种族mod"
+		sr_jingling
+		# "2302181872	Transformers: War for Cybertron Ships & Portraits"
+		dark_energon
+		energon
+		# "2307773954	( Twinks I.A.A.T )"
+		techcaches
+		# "2310900887	[JP localize patch]!!Ariphaos Unofficial patch"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# consumer_goods
+		# alloys
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "2387589774	Ancient Cache of Technologies New"
+		# acot_sr_dark_energy
+		# acot_sr_stellarite
+		# acot_sr_light_matter
+		acot_sr_bandwidth
+		acot_sr_essence
+		# "2401955680	TSU的自用MOD"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# consumer_goods
+		# alloys
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "2417206619	Interstellar Voyagers（the Journey of Elaina Species Pack)"
+		sr_carolin_crystals
+		# "2424357162	马自立科技"
+		sr_qingchu
+		# "2444226078	second"
+		# time
+		sr_automaton_core
+		# "2452362450	Stargate Universe Reborn"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# consumer_goods
+		# alloys
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		psi_energy
+		sr_ancient_zpm
+		sr_goauld_symbiote
+		# "2466607238	! Core Framework & Modmenu 3.1"
+		z_fw_sr_test
+		z_fw_sr_ali
+		z_fw_sr_we
+		# "2481544298	Star Wars Universe Army Types(3.1+)"
+		sw_credit
+		private_sector_sw_credit
+		swua_kyber_crystal
+		ionized_tibanna_gas
+		high_quality_tibanna_gas		# old
+		low_quality_tibanna_gas		# old
+		swua_energy_cells
+		blastech_weapons
+		republic_citizen
+		republic_uniforms
+		republic_armor
+		republic_vehicles
+		sith_citizen
+		sith_uniforms
+		sith_armor
+		sith_vehicles
+		jedi_robes
+		sith_robes
+		fett_dna
+		clone_troopers
+		phase_1_armor
+		phase_2_armor
+		specialized_clone_armor
+		at_rt_variants
+		tx_130_variants
+		at_te_variants
+		laat_variants
+		baktoid_combat_automata_droids
+		baktoid_armor_workshop_droids
+		hallowan_laboratories_droids
+		fett_dna_empire
+		clone_troopers_empire
+		imperial_citizen
+		imperial_uniforms
+		phase_2_armor_empire
+		specialized_clone_armor_empire
+		imperial_armor
+		tx_130_variants_empire
+		at_rt_variants_empire
+		at_te_variants_empire
+		laat_variants_empire
+		imperial_vehicles
+		rebel_cells
+		tx_130_variants_rebellion
+		at_rt_variants_rebellion
+		# tx_130_variants_rebellion
+		at_te_variants_rebellion
+		laat_variants_rebellion
+		first_order_citizen
+		first_order_uniforms
+		first_order_armor
+		first_order_vehicles
+		resistance_cells
+		fett_dna_ku
+		clone_troopers_ku
+		phase_1_armor_ku
+		specialized_clone_armor_ku
+		at_rt_variants_ku
+		tx_130_variants_ku
+		at_te_variants_ku
+		laat_variants_ku
+		# "2483595781	Warden.A.I. 3.1.2"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# consumer_goods
+		# alloys
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# starnet_spice_melange
+		# "2486362333	United We Stand!(3.1+)"
+		dna
+		biomass
+		kinetic_ammo
+		vehicle_chasis
+		military_equipment
+		small_arms
+		able_bodied_recruit
+		basic_solider
+		basic_officer
+		supplies
+		combustible_mg_fuel
+		spare_parts
+		robotic_chasis
+		light_energy
+		dark_energy
+		arcane_energy
+		fire_energy
+		water_energy
+		air_energy
+		earth_energy
+		# "2493984024	New Government Mod 2 JP"
+		# ngm_order_of_merit
+		# "2494712590	StarTech AI"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# consumer_goods
+		# alloys
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# starnet_spice_melange
+		# "2517513764	ThaumStellaris"
+		tc_essences
+		tc_thaumium
+		tc_element_shard
+		tc_void_metal
+		tc_knowledge_fragment
+		# "2521662163	Destiny: Vex Portraits"
+		vex_radiolaria
+		# "2529002857	! Production Revolution 3.1 !"
+		res_plnt_man
+		res_plnt_bonus
+		z_pr_res_post
+		z_pr_res_navy
+		z_pr_res_admin
+		z_pr_res_guard
+		z_pr_res_co
+		# "2532042088	maidforgm"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# consumer_goods
+		# alloys
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "2533518533	The Reform Plane"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# alloys
+		# consumer_goods
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "2535252755	LianSide_BETA"
+		unkowne_visib
+		tiber
+		ap_mad_crisis_point
+		# "2536609215	Solar Storm"
+		sr_hypernuclear
+		sr_muonic_hydrogen
+		sr_quantanium
+		# "2538207206	Project SCP (Formerly SCP Anomalies & Events)"
+		scpanomaly_living_legos
+		# "2539397127	Zro Dependent"
+		# sr_zro
+		# "2540708177	综合模组"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# alloys
+		# consumer_goods
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "2547826658	Origin Beings"
+		sr_dilithium_crystals
+		sr_quartz_crystals
+		archaeological_artifacts
+		sr_neutroniumm
+		sr_garanthiumm
+		sr_precious_stoness
+		sr_plastic_metal
+		sr_satramenee
+		sr_yuranticc
+		sr_heliumm
+		sr_miriumm
+		sr_waterr
+		# "2558590111	Arpeggio of Blue Steel DLC"
+		union_core
+		nanomaterial
+		# "2580686195	SCM Overhaul - Woolies Legacy"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# alloys
+		# consumer_goods
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "2583755721	Star Wars: New Dawn"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# alloys
+		# consumer_goods
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		hyperfuel
+		# tibanna_gas
+		ammunition
+		electronics
+		bacta
+		spice
+		sr_agrocite
+		sr_kyber
+		# "2586015630	牧羊人之心mod"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# alloys
+		# consumer_goods
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "2589309725	红色警戒2心灵终结主题mod(主体部分)"
+		# sr_zro
+		# "2601904322	AlphaMod 3.1"
+		sr_wealth
+		sr_natural_fuels
+		sr_actinides
+		sr_biomass
+		sr_waste
+		sr_ice
+		sr_plastics
+		sr_electronics
+		sr_protomatter
+		sr_comms
+		sr_logistics
+		alphamod
+		sr_precious_stones
+		sr_rare_metals
+		# "2602025201	Stellaris Evolved - Alpha"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# alloys
+		# consumer_goods
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "2602032447	Modded Ressources on the Market"
+		# esc_psionic_charge
+		# esc_gravitic_anomaly
+		# esc_living_crystal
+		# esc_transdimensional_vortex
+		# esc_enigmatic_energy
+		# sr_biomass
+		# sr_ice
+		# sr_plastics
+		# sr_electronics
+		# sr_protomatter
+		# sr_precious_stones
+		# sr_rare_metals
+		# sr_eludium
+		# sr_acean
+		# sr_rad_bloom
+		# sr_tiyanki_parts
+		# acot_sr_light_matter
+		# sr_iodizium
+		# ehof_sr_negative_mass
+		# mec_biotics
+		# tc_knowledge_fragment
+		# tc_element_shard
+		# tc_essences
+		# leng_breeder
+		# time
+		# influence
+		# nanites
+		# minor_artifacts
+		# "2602522448	Epicris[AI]"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# alloys
+		# consumer_goods
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "2613367590	Coles Tweeks"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# consumer_goods
+		# alloys
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "2615795416	test2"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# consumer_goods
+		# alloys
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# starnet_spice_melange
+		# sr_eludium
+		# sr_acean
+		# sr_rad_bloom
+		# sr_tiyanki_parts
+		# kyber_crystals
+		# tibanna_gas
+		# "2616204219	test 3"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# consumer_goods
+		# alloys
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# starnet_spice_melange
+		# sr_eludium
+		# sr_acean
+		# sr_rad_bloom
+		# sr_tiyanki_parts
+		# kyber_crystals
+		# tibanna_gas
+		# "2619844462	Colorful Galaxy"
+		excellent_slave
+		love_juice
+		holylight_crystal
+		sr_christian
+		sr_ten
+		sr_beauty
+		# "2621717391	FZ Unique perks 3.1"
+		automatic_drone
+		treasures
+		anti_matter
+		# "2626140820	Original Origins, Traits, and Civics"
+		sr_null
+		# "2626456052	Libra:Ash"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# consumer_goods
+		# alloys
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "2628406026	The New Era"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# alloys
+		# consumer_goods
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		power
+		evm_components
+		weapons_components
+		vsp_components
+		pol_components
+		hyper_fuel
+		# "2630605992	Make Space Sexy Again"
+		sr_slime
+		sr_dairy
+		# "2630763986	Maid for GMs"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# consumer_goods
+		# alloys
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
+		# "2634677227	New Government EN Fergal rework"
+		# ngm_order_of_merit
+		# "2634695094	(Merged) PH1111111111111 Third Friday Fun Fest three Tres 333"
+		# time
+		# energy
+		# minerals
+		# food
+		# physics_research
+		# society_research
+		# engineering_research
+		# influence
+		# unity
+		# alloys
+		# consumer_goods
+		# volatile_motes
+		# exotic_gases
+		# rare_crystals
+		# sr_living_metal
+		# sr_zro
+		# sr_dark_matter
+		# nanites
+		# minor_artifacts
+		# menace
 	}
 	localization = {
-		"RESOURCE_GROUP_DEFAULT" = default	
-		"RESOURCE_GROUP_DEFAULT_NEG_DEC" = { balance < 0 stored >= 1000 stored < 10000 }
-		"RESOURCE_GROUP_DEFAULT_NEG" = { balance < 0 }
-		"RESOURCE_GROUP_DEFAULT_MAX" = { max > 0 stored >= max }
-		"RESOURCE_GROUP_DEFAULT_DEC" = { stored >= 1000 stored < 10000 }
+		"RESOURCE_GROUP_DEFAULT" = default
+		"RESOURCE_GROUP_DEFAULT_NEG_DEC" = {
+			balance < 0
+			stored >= 1000
+			stored < 10000
+		}
+		"RESOURCE_GROUP_DEFAULT_NEG" = {
+			balance < 0
+		}
+		"RESOURCE_GROUP_DEFAULT_MAX" = {
+			max > 0
+			stored >= max
+		}
+		"RESOURCE_GROUP_DEFAULT_DEC" = {
+			stored >= 1000
+			stored < 10000
+		}
 	}
 	onclick = market
 }
