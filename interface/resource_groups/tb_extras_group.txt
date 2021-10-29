@@ -38,7 +38,7 @@ tb_extras_group = {
 		sr_rad_bloom
 		sr_tiyanki_parts
 		# "865247251	Big Build!"
-		dajian_cube
+		# dajian_cube		# presumably hidden
 		# "910751973	Hypothetical Stars"
 		sr_strange_matter
 		sr_quark_gluon_plasma
@@ -55,9 +55,9 @@ tb_extras_group = {
 		# "1346877266	APSR: Anomalies, Planetary and Space Resources"
 		apsr_knowledge
 		# "1419304439	Ancient Cache of Technologies"
-		acot_sr_dark_energy
-		acot_sr_stellarite
-		acot_sr_light_matter
+		# acot_sr_dark_energy		# duplicate
+		# acot_sr_stellarite		# duplicate
+		# acot_sr_light_matter		# duplicate
 		# "1561467507	Supergalactica Neptunia - Gamalaticania Universe"
 		sr_ltd_firaxus_gas
 		sr_ltd_kiraxus_gas
@@ -66,14 +66,14 @@ tb_extras_group = {
 		sr_ltd_spaceship_crew
 		sr_ltd_manpower_crew
 		sr_ltd_share_energy
-		ltd_karma_source
+		# ltd_karma_source		# presumably hidden
 		sr_ltd_aiko_manju
 		sr_ltd_planeptunium_energy
 		sr_ltd_planeptunium_material
 		# "1603330813	Ecology Mod"
-		waste
+		# waste		# presumably hidden
 		# "1617872589	Azur Lane Stellaris DLC"
-		azur_pr_patch
+		# azur_pr_patch		# presumably hidden
 		mind_club
 		azur_shippartbox
 		azur_red_diamond
@@ -89,18 +89,17 @@ tb_extras_group = {
 		# "1695559328	Species Engineering"
 		leng_breeder
 		# "1747099270	Warship Girls R And MIST Species"
-		sr_wg_crisis_point
 		sr_pantsu
 		sr_neo
 		sr_alpha
 		sr_se
-		sr_ring
-		sr_wg_up
-		# sr_wg_crisis_point
-		sr_wg_down
-		sr_huaji
-		sr_sh
-		sr_wsg
+		# sr_ring		# presumably hidden
+		# sr_wg_up		# presumably hidden
+		sr_wg_crisis_point		# presumably hidden
+		sr_wg_down		# presumably hidden
+		sr_huaji		# presumably hidden
+		sr_sh		# presumably hidden
+		sr_wsg		# presumably hidden
 		# "1764375600	Stellaris Tiberium Wars"
 		sr_tiberium_green
 		sr_tiberium_blue
@@ -113,7 +112,7 @@ tb_extras_group = {
 		sr_lingli
 		sr_fuka
 		# "1872866100	Air Superiority Strike Craft Overhaul"
-		Pilots
+		# Pilots		# presumably hidden
 		# "1885775216	Extra Ship Components 3.0 [Actual]"
 		esc_psionic_charge
 		esc_gravitic_anomaly
@@ -127,17 +126,17 @@ tb_extras_group = {
 		crew
 		latinum
 		ketracel_white
-		photonic_capacity
-		unobtainium
+		# photonic_capacity		# presumably hidden
+		# unobtainium		# presumably hidden
 		# "1932537174	The Empty Vagrant 太虚流浪"
 		manpower
 		# "1939754080	!Larabee's Modified Star Wars Weapons"
 		kyber_crystals
-		tibanna_gas
+		# tibanna_gas		# duplicate
 		# "2020164764	碧蓝航线"
 		sr_hongjianjian
 		sr_mofang
-		sr_wuyan
+		# sr_wuyan		# presumably hidden
 		# "2027001560	Madoka Magica NEW"
 		grief_cube
 		shoujo_army
@@ -145,23 +144,23 @@ tb_extras_group = {
 		corechip
 		# "2070082709	【少女前线GirlsFrontline】涅托种族事件包NytoSpeciesEventsPack"
 		GF_nyto_collapse_liquid
-		GF_nyto_diamonds
-		GF_nyto_superconducting_kinetic_energy
-		GF_nyto_superconducting_potential_energy
-		GF_nyto_black_card
-		GF_nyto_doll_manufacturing_contract
-		GF_nyto_rapid_manufacturing_contract
-		GF_nyto_core
-		GF_nyto_quick_fix_contract
-		GF_nyto_training_materials
-		GF_nyto_fast_track_contract
-		GF_nyto_mental_fragments
-		GF_nyto_new_fire_control_unit
-		GF_nyto_power_of_attorney
+		# GF_nyto_diamonds		# presumably hidden
+		# GF_nyto_superconducting_kinetic_energy		# presumably hidden
+		# GF_nyto_superconducting_potential_energy		# presumably hidden
+		# GF_nyto_black_card		# presumably hidden
+		# GF_nyto_doll_manufacturing_contract		# presumably hidden
+		# GF_nyto_rapid_manufacturing_contract		# presumably hidden
+		# GF_nyto_core		# presumably hidden
+		# GF_nyto_quick_fix_contract		# presumably hidden
+		# GF_nyto_training_materials		# presumably hidden
+		# GF_nyto_fast_track_contract		# presumably hidden
+		# GF_nyto_mental_fragments		# presumably hidden
+		# GF_nyto_new_fire_control_unit		# presumably hidden
+		# GF_nyto_power_of_attorney		# presumably hidden
 		GF_nyto_dark_star_core
-		GF_nyto_superstar_core
-		GF_nyto_developing_petri_dishes
-		GF_nyto_training_key
+		# GF_nyto_superstar_core		# presumably hidden
+		# GF_nyto_developing_petri_dishes		# presumably hidden
+		# GF_nyto_training_key		# presumably hidden
 		# "2079398322	( Twinks Atlanteans )"
 		favour
 		# "2116422940	Star Wars: UnknownWorld Shipgirls Story"
@@ -187,9 +186,9 @@ tb_extras_group = {
 		# "2307773954	( Twinks I.A.A.T )"
 		techcaches
 		# "2387589774	Ancient Cache of Technologies New"
-		# acot_sr_dark_energy
-		# acot_sr_stellarite
-		# acot_sr_light_matter
+		acot_sr_dark_energy
+		acot_sr_stellarite
+		acot_sr_light_matter
 		acot_sr_bandwidth
 		acot_sr_essence
 		# "2417206619	Interstellar Voyagers（the Journey of Elaina Species Pack)"
@@ -203,9 +202,9 @@ tb_extras_group = {
 		sr_ancient_zpm
 		sr_goauld_symbiote
 		# "2466607238	! Core Framework & Modmenu 3.1"
-		z_fw_sr_test
-		z_fw_sr_ali
-		z_fw_sr_we
+		# z_fw_sr_test		# presumably hidden
+		# z_fw_sr_ali		# presumably hidden
+		# z_fw_sr_we		# presumably hidden
 		# "2481544298	Star Wars Universe Army Types(3.1+)"
 		sw_credit
 		private_sector_sw_credit
@@ -215,14 +214,14 @@ tb_extras_group = {
 		low_quality_tibanna_gas		# old
 		swua_energy_cells
 		blastech_weapons
-		republic_citizen
-		republic_uniforms
-		republic_armor
-		republic_vehicles
-		sith_citizen
-		sith_uniforms
-		sith_armor
-		sith_vehicles
+		# republic_citizen		# presumably hidden
+		# republic_uniforms		# presumably hidden
+		# republic_armor		# presumably hidden
+		# republic_vehicles		# presumably hidden
+		# sith_citizen		# presumably hidden
+		# sith_uniforms		# presumably hidden
+		# sith_armor		# presumably hidden
+		# sith_vehicles		# presumably hidden
 		jedi_robes
 		sith_robes
 		fett_dna
@@ -234,31 +233,31 @@ tb_extras_group = {
 		tx_130_variants
 		at_te_variants
 		laat_variants
-		baktoid_combat_automata_droids
-		baktoid_armor_workshop_droids
-		hallowan_laboratories_droids
+		# baktoid_combat_automata_droids		# presumably hidden
+		# baktoid_armor_workshop_droids		# presumably hidden
+		# hallowan_laboratories_droids		# presumably hidden
 		fett_dna_empire
 		clone_troopers_empire
 		imperial_citizen
 		imperial_uniforms
 		phase_2_armor_empire
 		specialized_clone_armor_empire
-		imperial_armor
+		# imperial_armor		# presumably hidden
 		tx_130_variants_empire
 		at_rt_variants_empire
 		at_te_variants_empire
 		laat_variants_empire
-		imperial_vehicles
+		# imperial_vehicles		# presumably hidden
 		rebel_cells
 		tx_130_variants_rebellion
 		at_rt_variants_rebellion
-		# tx_130_variants_rebellion
+		# tx_130_variants_rebellion		# duplicate
 		at_te_variants_rebellion
 		laat_variants_rebellion
 		first_order_citizen
 		first_order_uniforms
 		first_order_armor
-		first_order_vehicles
+		# first_order_vehicles		# presumably hidden
 		resistance_cells
 		fett_dna_ku
 		clone_troopers_ku
@@ -290,7 +289,7 @@ tb_extras_group = {
 		air_energy
 		earth_energy
 		# "2493984024	New Government Mod 2 JP"
-		# ngm_order_of_merit
+		# ngm_order_of_merit		# duplicate
 		# "2517513764	ThaumStellaris"
 		tc_essences
 		tc_thaumium
@@ -298,29 +297,29 @@ tb_extras_group = {
 		tc_void_metal
 		tc_knowledge_fragment
 		# "2521662163	Destiny: Vex Portraits"
-		vex_radiolaria
+		# vex_radiolaria		# presumably hidden
 		# "2529002857	! Production Revolution 3.1 !"
-		res_plnt_man
-		res_plnt_bonus
-		z_pr_res_post
-		z_pr_res_navy
-		z_pr_res_admin
-		z_pr_res_guard
-		z_pr_res_co
+		# res_plnt_man		# presumably hidden
+		# res_plnt_bonus		# presumably hidden
+		# z_pr_res_post		# presumably hidden
+		# z_pr_res_navy		# presumably hidden
+		# z_pr_res_admin		# presumably hidden
+		# z_pr_res_guard		# presumably hidden
+		# z_pr_res_co		# presumably hidden
 		# "2535252755	LianSide_BETA"
 		unkowne_visib
 		tiber
-		ap_mad_crisis_point
+		# ap_mad_crisis_point		# presumably hidden
 		# "2536609215	Solar Storm"
 		sr_hypernuclear
 		sr_muonic_hydrogen
 		sr_quantanium
 		# "2538207206	Project SCP (Formerly SCP Anomalies & Events)"
-		scpanomaly_living_legos
+		# scpanomaly_living_legos		# presumably hidden
 		# "2547826658	Origin Beings"
 		sr_dilithium_crystals
 		sr_quartz_crystals
-		archaeological_artifacts
+		# archaeological_artifacts	# presumably hidden
 		sr_neutroniumm
 		sr_garanthiumm
 		sr_precious_stoness
@@ -335,7 +334,7 @@ tb_extras_group = {
 		nanomaterial
 		# "2583755721	Star Wars: New Dawn"
 		hyperfuel
-		# tibanna_gas
+		tibanna_gas
 		ammunition
 		electronics
 		bacta
@@ -354,7 +353,7 @@ tb_extras_group = {
 		sr_protomatter
 		sr_comms
 		sr_logistics
-		alphamod
+		# alphamod		# presumably hidden
 		sr_precious_stones
 		sr_rare_metals
 		# "2619844462	Colorful Galaxy"
@@ -378,8 +377,8 @@ tb_extras_group = {
 		pol_components
 		hyper_fuel
 		# "2630605992	Make Space Sexy Again"
-		sr_slime
-		sr_dairy
+		# sr_slime		# presumably hidden
+		# sr_dairy		# presumably hidden
 	}
 	localization = {
 		"RESOURCE_GROUP_DEFAULT" = default
