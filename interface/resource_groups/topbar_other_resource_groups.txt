@@ -290,6 +290,12 @@ tb_others_group = {
 		water_energy
 		air_energy
 		earth_energy
+		sc_mineral		# old
+		vespene_gas		# old
+		plate_armor		# old
+		gold_coins		# old
+		mind_energy		# old
+		xeno_abled_bodies		# old	
 		# "2493984024	New Government Mod 2 JP"
 		# ngm_order_of_merit		# duplicate
 		# "2517513764	ThaumStellaris"
@@ -381,6 +387,178 @@ tb_others_group = {
 		# "2630605992	Make Space Sexy Again"
 		# sr_slime		# presumably hidden
 		# sr_dairy		# presumably hidden
+		#
+		# LEGACY SECTION
+		#
+		# "2047260446 Arknights Near Future"
+		originiums
+		d32_steels
+		multipole_nanosheets
+		# "1620302765 Automatic Market Economy (WIP)"
+		sr_investment
+		# "1679674388 Cartman's Jobs and Buildings
+		medicine
+		# "2044053450 Civic Expanded"
+		sr_warped_matter
+		# "1715190550 Expanded Gestalts: Forgotten Queens"
+		larva
+		# "2029182809 Diplomatic Ventures"
+		diplodrugs
+		diploforce
+		# "1132701021 Empyreal Ascension"
+		empy_exotic_matter
+		# "1410685835 Fantastical Magiks (2.3 Compatible!)"
+		manacite
+		# "1834467121 Few New Civics"
+		unfertilized_eggs
+		fertilized_eggs
+		# "685233391 Fight For Universe: Infinite Legacy"
+		riggan
+		sr_light_gases
+		sr_natural_liquids
+		# sr_garanthium # presumably hidden
+		sr_lythuric
+		sr_engos
+		sr_teldar
+		sr_pitharan
+		sr_orillium
+		# sr_neutronium	 # presumably hidden
+		sr_betharian
+		sr_alien_pets
+		# sr_satramene	 # presumably hidden
+		# "865040033 Guilli's Planet Modifiers and Features"
+		gpm_arcane_technology		# old
+		# "2332313037 GAPS: Gwen's Additional Play Styles"
+		sr_GAPS_psychic_power
+		sr_GAPS_water
+		# "1707557061 Honkai3rd Species"
+		honkai_energy
+		# "1603820738 Horizons Expanded"
+		zzzZaath_Resources
+		Zdecadence
+		ZPsionicPower
+		# "901039859 Human Fallen Empires"
+		hfe_sr_micro_robots
+		# "SteamID KamenRiderMod"
+		sr_energybottle
+		sr_ocoin
+		# "1848597773 !LLX's Mods - Dirty Jobs"
+		salt_crystals
+		sweets
+		clean_coal
+		fossil_fuels
+		polution
+		toys
+		# electronics	# duplicate
+		rare_minerals
+		gold
+		military_electronics
+		# "SteamID  Madoka Magica"
+		grief_seed
+		# grief_cube	# duplicate
+		# "SteamID Megastructure Logistics"
+		sr_megalogistic
+		# "2388735611 Mind Uploading"
+		uploaded_pops
+		# "717060367 Mobile Suit Gundam: Stellaris"
+		cybernewtypes
+		efsf_pilots
+		efsf_ace_pilots
+		luna_titanium
+		mobile_suits
+		newtypes
+		zeon_pilots
+		zeon_ace_pilots
+		# "1867143071 Planetary Curios"
+		luminescent_ferns
+		# "2014265338 Real Industrial Chain"
+		rlc_raw_material
+		rlc_light_substance
+		rlc_machine_part
+		rlc_electronic_component
+		rlc_fuel
+		rlc_pharmaceuticals
+		rlc_alloys
+		rlc_advanced_part
+		rlc_advanced_fuel
+		# "1553545100 Reaper civilization ancient Vault 2.8.1"
+		Tasrydine
+		stable_antimatte
+		Adamantium
+		# "1270179464 Robot civic-Paperclip Maximizer"
+		dsa_paperclips
+		# "2090352686 Slightly More Realistic Alloys, Minerals, and Consumer Goods (SMRAMCG)"	
+		commercial_materials
+		# "SteamID Smutty Space Ponies"
+		magic_crystals
+		# "SteamID Space Monsters"
+		spacemonster_supertissue
+		# "2426344305 SteamID Space Whaling"
+		tiyanki_milk
+		# "1881901372 Stephan's Elemental Economy"
+		sr_hydrogen
+		sr_helium_3
+		sr_carbon
+		sr_ammonia
+		sr_oxygen
+		# sr_water # duplicate
+		sr_noble_gases
+		sr_silicon
+		sr_transition_metals
+		sr_rare_earth_metals
+		# "SteamID Stella Magica"
+		stella_grief_cube
+		# "SteamID Strange_Energies"
+		SE_strange_matter
+		# " 2195523300 SW:Fallen Republic"
+		sr_hypermatter
+		sr_tibanna_gas
+		sr_laser_cells
+		sr_plasma_cells
+		sr_ordnance
+		sr_starfighter_parts
+		sr_hyperfuel
+		sr_focus
+		sr_bacta
+		sr_sw_spice
+		# sr_agrocite # duplicate
+		sr_kyber
+		# "1588842850 3.0.2 Shroud Expanded The Decadance of Sanity"
+		yin
+		# "SteamID The Holy Matriarch LV addons"
+		sr_mat_lv_exotic_fauna
+		sr_WL_lv_exotic_fauna
+		# "1873457161 ( Twinks Eternal Empires )"
+		virtue
+		ancient_knowldege
+		ambrosia
+		eternium
+		void_matter
+		# "1762062219 Unofficial Machine & Synthetic Empire DLC for Stellaris ver 2.7.1"
+		machinedlc_processing_capacity
+		machinedlc_processing_demand
+		# "2472118845 Upper Limits V3.0+"
+		planetary_industry_equipments
+		rift_matter
+		resource_starcore
+		resource_illunia
+		# "2532870494 Universal Paperclips"
+		sr_paperclips
+		# "2290404059 WAAAGH - Ork Psychic Field Civic"
+		sr_waaagh
+		# "1182348240 xilin_empire"
+		life_tree_seed
+		# "SteamID and mod name unknown"
+		mtp_tanatnim
+		mtp_elementenzyme
+		mtp_soulence
+		ukn_neutronium
+		ukn_electroweak_matter
+		ukn_quasi_matter
+		ukn_exotic_matter
+		ukn_exions
+		ukn_e3z0
+		ukn_tachyons
 	}
 	localization = {
 		"RESOURCE_GROUP_DEFAULT" = default
