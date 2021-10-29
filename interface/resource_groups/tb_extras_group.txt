@@ -168,6 +168,8 @@ tb_extras_group = {
 		sr_tibanna_swgs
 		# "2174082869	舰队collection：镇守府星际大冒险（Kancolle）"
 		sr_tanatonium
+		# "2178603631	~Acquisition of Technology"
+		aot_sr_runic_power
 		# "2192864662	New Government Mod [JP]"
 		ngm_order_of_merit
 		# "2218870708	崩坏3rd（honkai 3rd）"
