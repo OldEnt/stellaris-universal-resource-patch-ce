@@ -95,11 +95,11 @@ tb_extras_group = {
 		sr_se
 		# sr_ring		# presumably hidden
 		# sr_wg_up		# presumably hidden
-		sr_wg_crisis_point		# presumably hidden
-		sr_wg_down		# presumably hidden
-		sr_huaji		# presumably hidden
-		sr_sh		# presumably hidden
-		sr_wsg		# presumably hidden
+		# sr_wg_crisis_point		# presumably hidden
+		# sr_wg_down		# presumably hidden
+		# sr_huaji		# presumably hidden
+		# sr_sh		# presumably hidden
+		# sr_wsg		# presumably hidden
 		# "1764375600	Stellaris Tiberium Wars"
 		sr_tiberium_green
 		sr_tiberium_blue
