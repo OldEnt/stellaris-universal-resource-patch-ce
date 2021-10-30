@@ -258,11 +258,11 @@ tb_others_group = {
 		# tx_130_variants_rebellion		# duplicate
 		at_te_variants_rebellion
 		laat_variants_rebellion
-		first_order_citizen
-		first_order_uniforms
-		first_order_armor
+		# first_order_citizen		# hidden
+		# first_order_uniforms		# hidden
+		# first_order_armor		# hidden
 		# first_order_vehicles		# presumably hidden
-		resistance_cells
+		# resistance_cells		# hidden
 		fett_dna_ku
 		clone_troopers_ku
 		phase_1_armor_ku
