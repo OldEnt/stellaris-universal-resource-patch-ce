@@ -504,7 +504,7 @@ tb_nanites_group = {
 		sr_rare_earth_metals
 		# "SteamID Stella Magica"
 		stella_grief_cube
-		# "SteamID Strange_Energies"
+		# "2481049995 Strange Energies"
 		SE_strange_matter
 		# " 2195523300 SW:Fallen Republic"
 		sr_hypermatter
@@ -544,6 +544,8 @@ tb_nanites_group = {
 		sr_waaagh
 		# "1182348240 xilin_empire"
 		life_tree_seed
+		# "2652200912 Giga Stellar Manipulation"
+		sr_stellar_plasma
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
