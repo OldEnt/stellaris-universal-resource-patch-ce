@@ -387,6 +387,8 @@ tb_extras_group = {
 		# "2630605992	Make Space Sexy Again"
 		# sr_slime		# presumably hidden
 		# sr_dairy		# presumably hidden
+		# "2665584412	Nomadic lifestyle (3.2)"
+		sr_nomadic_population
 		#
 		# LEGACY SECTION
 		#
