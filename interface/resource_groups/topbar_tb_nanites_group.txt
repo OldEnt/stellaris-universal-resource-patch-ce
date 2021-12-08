@@ -548,6 +548,13 @@ tb_nanites_group = {
 		life_tree_seed
 		# "2652200912 Giga Stellar Manipulation"
 		sr_stellar_plasma
+		# "2486649583 Mass Effect: Beyond the Relays - Beta"
+		helium_3
+		hydrogen
+		element_zero
+		iridium
+		platinum
+		palladium
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
