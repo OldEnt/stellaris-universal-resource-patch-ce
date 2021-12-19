@@ -93,6 +93,7 @@ tb_extras_group = {
 		sr_neo
 		sr_alpha
 		sr_se
+		sr_uf
 		# sr_ring		# presumably hidden
 		# sr_wg_up		# presumably hidden
 		# sr_wg_crisis_point		# presumably hidden
