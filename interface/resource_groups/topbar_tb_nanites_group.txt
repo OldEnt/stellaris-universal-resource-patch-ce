@@ -180,8 +180,10 @@ tb_nanites_group = {
 		# "2290797357	No Game No Life ExMachina Species mod/游戏人生机凯种种族mod"
 		sr_jingling
 		# "2302181872	Transformers: War for Cybertron Ships & Portraits"
-		dark_energon
 		energon
+		dark_energon
+		energon_crystals
+		dark_energon_crystals
 		# "2307773954	( Twinks I.A.A.T )"
 		techcaches
 		# "2387589774	Ancient Cache of Technologies New"
