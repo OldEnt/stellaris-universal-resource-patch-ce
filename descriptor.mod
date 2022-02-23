@@ -6,5 +6,5 @@ tags={
 	"Fixes"
 }
 name="~Universal Resource Patch CE"
-supported_version="3.2.*"
+supported_version="3.3.*"
 picture="thumbnail.png"
