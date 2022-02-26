@@ -145,23 +145,23 @@ tb_extras_group = {
 		corechip
 		# "2070082709	【少女前线GirlsFrontline】涅托种族事件包NytoSpeciesEventsPack"
 		GF_nyto_collapse_liquid
-		# GF_nyto_diamonds		# presumably hidden
-		# GF_nyto_superconducting_kinetic_energy		# presumably hidden
-		# GF_nyto_superconducting_potential_energy		# presumably hidden
-		# GF_nyto_black_card		# presumably hidden
-		# GF_nyto_doll_manufacturing_contract		# presumably hidden
-		# GF_nyto_rapid_manufacturing_contract		# presumably hidden
-		# GF_nyto_core		# presumably hidden
-		# GF_nyto_quick_fix_contract		# presumably hidden
-		# GF_nyto_training_materials		# presumably hidden
-		# GF_nyto_fast_track_contract		# presumably hidden
-		# GF_nyto_mental_fragments		# presumably hidden
-		# GF_nyto_new_fire_control_unit		# presumably hidden
-		# GF_nyto_power_of_attorney		# presumably hidden
+		GF_nyto_diamonds
+		GF_nyto_superconducting_kinetic_energy
+		GF_nyto_superconducting_potential_energy
+		GF_nyto_black_card
+		GF_nyto_doll_manufacturing_contract
+		GF_nyto_rapid_manufacturing_contract
+		GF_nyto_core
+		GF_nyto_quick_fix_contract
+		GF_nyto_training_materials
+		GF_nyto_fast_track_contract
+		GF_nyto_mental_fragments
+		GF_nyto_new_fire_control_unit
+		GF_nyto_power_of_attorney
 		GF_nyto_dark_star_core
-		# GF_nyto_superstar_core		# presumably hidden
-		# GF_nyto_developing_petri_dishes		# presumably hidden
-		# GF_nyto_training_key		# presumably hidden
+		GF_nyto_superstar_core
+		GF_nyto_developing_petri_dishes
+		GF_nyto_training_key
 		# "2079398322	( Twinks Atlanteans )"
 		favour
 		# "2116422940	Star Wars: UnknownWorld Shipgirls Story"
