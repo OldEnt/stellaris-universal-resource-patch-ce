@@ -392,6 +392,13 @@ tb_extras_group = {
 		# sr_dairy		# presumably hidden
 		# "2665584412	Nomadic lifestyle (3.2)"
 		sr_nomadic_population
+		# "SteamID modname"
+		AL_unicorn
+		AL_magi_crystal
+		AL_magi_crystal_core
+		AL_magi_alloy
+		AL_faith_num
+		sr_solar_matter
 		#
 		# LEGACY SECTION
 		#
