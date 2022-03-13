@@ -147,22 +147,22 @@ tb_others_group = {
 		corechip
 		# "2070082709	【少女前线GirlsFrontline】涅托种族事件包NytoSpeciesEventsPack"
 		GF_nyto_collapse_liquid
-		GF_nyto_diamonds
-		GF_nyto_superconducting_kinetic_energy
-		GF_nyto_superconducting_potential_energy
-		GF_nyto_black_card
-		GF_nyto_doll_manufacturing_contract
-		GF_nyto_rapid_manufacturing_contract
-		GF_nyto_core
-		GF_nyto_quick_fix_contract
-		GF_nyto_training_materials
-		GF_nyto_fast_track_contract
+		# GF_nyto_diamonds
+		# GF_nyto_superconducting_kinetic_energy
+		# GF_nyto_superconducting_potential_energy
+		# GF_nyto_black_card
+		# GF_nyto_doll_manufacturing_contract
+		# GF_nyto_rapid_manufacturing_contract
+		# GF_nyto_core
+		# GF_nyto_quick_fix_contract
+		# GF_nyto_training_materials
+		# GF_nyto_fast_track_contract
 		GF_nyto_mental_fragments
 		GF_nyto_new_fire_control_unit
-		GF_nyto_power_of_attorney
+		# GF_nyto_power_of_attorney
 		GF_nyto_dark_star_core
-		GF_nyto_superstar_core
-		GF_nyto_developing_petri_dishes
+		# GF_nyto_superstar_core
+		# GF_nyto_developing_petri_dishes
 		GF_nyto_training_key
 		# "2079398322	( Twinks Atlanteans )"
 		favour
@@ -571,6 +571,14 @@ tb_others_group = {
 		iridium
 		platinum
 		palladium
+		# "2746877433 Destiny: Hive Portraits"
+		hive_worm
+		# "2521668730 Destiny: Cabal Portraits"
+		cabal_oil
+		# "2521662163 Destiny: Vex Portraits"
+		vex_radiolaria
+		# "2706963043 Destiny: Fallen Portraits"
+		fallen_ether
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
