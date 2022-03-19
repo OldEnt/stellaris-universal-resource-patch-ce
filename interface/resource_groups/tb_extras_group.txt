@@ -577,6 +577,9 @@ tb_extras_group = {
 		vex_radiolaria
 		# "2706963043 Destiny: Fallen Portraits"
 		fallen_ether
+		# "2776070504 Rozen Maiden Suigintou Leader Pack"
+		sr_rosa_mystica
+		sr_void_core
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
