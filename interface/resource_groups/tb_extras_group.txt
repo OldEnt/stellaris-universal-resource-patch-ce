@@ -580,6 +580,8 @@ tb_extras_group = {
 		# "2776070504 Rozen Maiden Suigintou Leader Pack"
 		sr_rosa_mystica
 		sr_void_core
+		# "2775968897 Real Space - Planetary Stations"
+		helium
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
