@@ -586,6 +586,11 @@ tb_others_group = {
 		sr_void_core
 		# "2775968897 Real Space - Planetary Stations"
 		helium
+		# "2174082869 Collection: Kancolle"
+		sr_kancolle_material
+		sr_kancolle_repair
+		sr_kancolle_renovate
+		sr_kancolle_build
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
