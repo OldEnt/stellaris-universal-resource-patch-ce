@@ -52,6 +52,7 @@ tb_extras_group = {
 		sr_psionic_sublimate
 		ehof_sr_negative_mass
 		ehof_sr_sentient_metal
+		giga_sr_amb_megaconstruction
 		# "1346877266	APSR: Anomalies, Planetary and Space Resources"
 		apsr_knowledge
 		# "1419304439	Ancient Cache of Technologies"
