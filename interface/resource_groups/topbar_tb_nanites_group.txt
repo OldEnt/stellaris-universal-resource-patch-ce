@@ -397,6 +397,9 @@ tb_nanites_group = {
 		AL_faith_num
 		AL_arsenal_shop_coin
 		sr_solar_matter
+		# "2677473144	StellarisCraft"	
+		sr_khaydarin_pylon
+		sr_terrazine
 		#
 		# LEGACY SECTION
 		#
