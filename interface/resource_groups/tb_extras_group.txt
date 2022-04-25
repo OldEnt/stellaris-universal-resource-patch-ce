@@ -53,7 +53,6 @@ tb_extras_group = {
 		ehof_sr_negative_mass
 		ehof_sr_sentient_metal
 		giga_sr_amb_megaconstruction
-		giga_tech_amb_supertensiles
 		# "1346877266	APSR: Anomalies, Planetary and Space Resources"
 		apsr_knowledge
 		# "1419304439	Ancient Cache of Technologies"
