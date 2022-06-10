@@ -400,6 +400,8 @@ tb_nanites_group = {
 		# "2677473144	StellarisCraft"	
 		sr_khaydarin_pylon
 		sr_terrazine
+		# "2818673378	Vampire The Masquerade - Stellaris Edition"	
+		sr_blood
 		#
 		# LEGACY SECTION
 		#
