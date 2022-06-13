@@ -402,6 +402,8 @@ tb_nanites_group = {
 		sr_terrazine
 		# "2818673378	Vampire The Masquerade - Stellaris Edition"	
 		sr_blood
+		# "2820330517	Secrets of the Shroud"
+		sm_sr_perfect_runic_energy
 		#
 		# LEGACY SECTION
 		#
