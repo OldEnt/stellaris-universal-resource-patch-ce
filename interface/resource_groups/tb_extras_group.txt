@@ -602,6 +602,12 @@ tb_extras_group = {
 		# "SteamID The Illusion's illusive coffee mod"
 		sr_coffee
 		sr_coffee_beans
+		# "2830306302 Plants VS Zombies Armies"
+		dave_bucks
+		pvza_brain
+		pvza_sun
+		# "2655341936 Lithoid Supremacy"
+		ls_soul_crystals
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
