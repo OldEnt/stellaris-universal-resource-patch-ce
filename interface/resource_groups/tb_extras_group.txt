@@ -608,6 +608,8 @@ tb_extras_group = {
 		pvza_sun
 		# "2655341936 Lithoid Supremacy"
 		ls_soul_crystals
+		# "2829284888 B5 Species - Shadows"
+		sentm
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
