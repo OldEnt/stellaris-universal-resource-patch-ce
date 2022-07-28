@@ -610,6 +610,14 @@ tb_extras_group = {
 		ls_soul_crystals
 		# "2829284888 B5 Species - Shadows"
 		sentm
+		# "2797893759 Cruel Conquerors"
+		cruelsanity
+		cruelpain
+		cruelsuffering
+		cruelagony
+		crueldespair
+		cruelannihilation
+		cruel_red_giga_mass
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
