@@ -620,6 +620,9 @@ tb_others_group = {
 		crueldespair
 		cruelannihilation
 		cruel_red_giga_mass
+		# "2839788926 赛马娘——星海德比"
+		uma_threegodness_knowledge
+		uma_crystal_carrot
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
