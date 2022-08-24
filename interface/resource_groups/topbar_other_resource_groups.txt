@@ -623,6 +623,11 @@ tb_others_group = {
 		# "2839788926 赛马娘——星海德比"
 		uma_threegodness_knowledge
 		uma_crystal_carrot
+		# "Ultimate Gacha 2845647877"
+		gs_premium_currency
+		gs_freemium_currency
+		# "Grox SteamID"
+		sr_grox_metal
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
