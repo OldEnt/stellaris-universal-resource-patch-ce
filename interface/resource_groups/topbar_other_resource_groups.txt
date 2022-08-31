@@ -643,6 +643,9 @@ tb_others_group = {
 		ukn_exions
 		ukn_e3z0
 		ukn_tachyons
+		#2845647877 - Ultimate Gachamod
+		gs_premium_currency
+		gs_freemium_currency
 	}
 	localization = {
 		"RESOURCE_GROUP_DEFAULT" = default
