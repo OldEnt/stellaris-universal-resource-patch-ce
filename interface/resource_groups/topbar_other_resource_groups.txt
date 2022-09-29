@@ -628,6 +628,17 @@ tb_others_group = {
 		gs_freemium_currency
 		# "Grox SteamID"
 		sr_grox_metal
+		# "Choam SteamID"
+		sr_spice
+		sr_ixian
+		sr_mentats
+		sr_truthsayers
+		sr_tleilaxu
+		sr_guild
+		sr_sardaukar
+		sr_swordmasters
+		sr_elacca
+		sr_suk
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
