@@ -633,6 +633,12 @@ tb_nanites_group = {
 		sr_swordmasters
 		sr_elacca
 		sr_suk
+		# "群星修仙传 2865408972"
+		sxx_stones
+		sxx_pills
+		# "BlueArchive species pack 2810064268"
+		sr_pyroxenes
+		sr_keystone
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
