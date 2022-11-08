@@ -642,6 +642,8 @@ tb_nanites_group = {
 		# "Kirara Fantasia in Stellaris 2884106958"
 		sr_starlight_stone
 		sr_clea
+		# "Stagegirls 2807130139"
+		SG_shine
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
