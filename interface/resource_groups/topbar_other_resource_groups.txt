@@ -650,6 +650,9 @@ tb_others_group = {
 		sr_clea
 		# "Stagegirls 2807130139"
 		SG_shine
+		# "[Arknights]The Crusade to Stellaris 2644888097"
+		originium
+		originiumunit
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
