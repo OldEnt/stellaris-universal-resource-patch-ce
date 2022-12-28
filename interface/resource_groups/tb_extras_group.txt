@@ -651,6 +651,9 @@ tb_extras_group = {
 		# "[Arknights]The Crusade to Stellaris 2644888097"
 		originium
 		originiumunit
+		# "Phase Tech SteamID"
+		cr_phase_phasewave_matter
+		cr_phase_phasewave_energy
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
