@@ -656,6 +656,13 @@ tb_others_group = {
 		# "Phase Tech SteamID"
 		cr_phase_phasewave_matter
 		cr_phase_phasewave_energy
+		# "Star Wars: Legacy of the Old Republic 2791119024"
+		sr_meds
+		# sr_spice		# duplicate
+		sr_isotope5
+		fuel
+		# crew		# duplicate
+		sr_heavy_alloys
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
