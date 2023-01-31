@@ -587,6 +587,11 @@ tb_extras_group = {
 		# "2706963043 Destiny: Fallen Portraits"
 		fallen_ether
 		scorn_dark_ether
+		# "2111892583 Animated Scrin Portraits"
+		ichor_green_crystals
+		ichor_blue_crystals
+		ichor_green
+		ichor_blue
 		# "2776070504 Rozen Maiden Suigintou Leader Pack"
 		sr_rosa_mystica
 		sr_void_core
@@ -624,6 +629,12 @@ tb_extras_group = {
 		# "Ultimate Gacha 2845647877"
 		gs_premium_currency
 		gs_freemium_currency
+		# "2917713684 Return of Ragnarok"
+		sr_N_ISBS_DWP
+		# "2872804708 All These Worlds - Galactic Diversity Module"
+		seeds
+		greenhouse_gases
+		water_ices
 		# "Grox SteamID"
 		sr_grox_metal
 		# "Choam SteamID"
