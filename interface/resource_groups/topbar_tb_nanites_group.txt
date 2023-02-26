@@ -140,6 +140,7 @@ tb_nanites_group = {
 		shoujo_army
 		# "2068768158	少女前线（Girls Frontline）群星故事集(正史线：危机联合)"
 		corechip
+		gf_core_chip
 		# "2070082709	【少女前线GirlsFrontline】涅托种族事件包NytoSpeciesEventsPack"
 		GF_nyto_collapse_liquid
 		# GF_nyto_diamonds
