@@ -397,13 +397,15 @@ tb_others_group = {
 		# "2665584412	Nomadic lifestyle (3.2)"
 		sr_nomadic_population
 		# "2785989313 Assault Lily Species"
-		AL_unicorn
+		# AL_unicorn
 		AL_magi_crystal
 		AL_magi_crystal_core
 		AL_magi_alloy
 		AL_faith_num
 		AL_arsenal_shop_coin
-		sr_solar_matter
+		# sr_solar_matter
+		AL_lily_diary
+		AL_magic_bullet
 		# "2677473144	StellarisCraft"	
 		sr_khaydarin_pylon
 		sr_terrazine
