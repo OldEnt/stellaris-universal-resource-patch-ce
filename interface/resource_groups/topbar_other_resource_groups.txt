@@ -670,6 +670,19 @@ tb_others_group = {
 		# "[Arknights]The Crusade to Stellaris 2644888097"
 		originium
 		originiumunit
+		# "Xenos' Mod Dependency 2948502187"
+		exo_triiodide
+		exo_vantablack
+		exo_gallium
+		exo_plutonium
+		exo_adamantite
+		exo_administrantium
+		exo_coaxium
+		exo_hyperion
+		exo_dust
+		exo_stalinium
+		exo_kruppstahl
+		exo_tachyon
 		# "Phase Tech SteamID"
 		cr_phase_phasewave_matter
 		cr_phase_phasewave_energy
