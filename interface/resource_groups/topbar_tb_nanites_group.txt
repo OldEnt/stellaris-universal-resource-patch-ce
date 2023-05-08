@@ -677,6 +677,9 @@ tb_nanites_group = {
 		exo_stalinium
 		exo_kruppstahl
 		exo_tachyon
+		# "bbt104's mod SteamID"
+		ad_mana
+		ad_hellfire
 		# "Phase Tech SteamID"
 		cr_phase_phasewave_matter
 		cr_phase_phasewave_energy
