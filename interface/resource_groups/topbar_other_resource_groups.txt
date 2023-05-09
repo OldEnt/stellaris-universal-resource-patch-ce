@@ -683,6 +683,8 @@ tb_others_group = {
 		exo_stalinium
 		exo_kruppstahl
 		exo_tachyon
+		# "Destiny: The Darkness 2827038964"
+		darkness_resonance
 		# "bbt104's mod SteamID"
 		ad_mana
 		ad_hellfire
