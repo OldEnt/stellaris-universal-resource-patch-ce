@@ -692,6 +692,9 @@ tb_nanites_group = {
 		fuel
 		# crew		# duplicate
 		sr_heavy_alloys
+		# "Mobile Suit Gundam Seed 2987580188"
+		gundarium
+		mobile_frame
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
