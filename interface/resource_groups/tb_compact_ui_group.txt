@@ -2,10 +2,10 @@
 tb_others_group_extra = {
 	resources = {
 		# "Stellaris Base Game"
-			sr_zro
-			sr_dark_matter
-			sr_living_metal
-			nanites
+		sr_zro
+		sr_dark_matter
+		sr_living_metal
+		nanites
 		# "688086068	ST: New Horizons"
 		sr_latinum
 		sr_crew
@@ -699,6 +699,8 @@ tb_others_group_extra = {
 		# "Mobile Suit Gundam Seed 2987580188"
 		gundarium
 		mobile_frame
+		# "RegeneX 2988573943"
+		sr_regenex
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology

@@ -699,6 +699,8 @@ tb_extras_group = {
 		# "Mobile Suit Gundam Seed 2987580188"
 		gundarium
 		mobile_frame
+		# "RegeneX 2988573943"
+		sr_regenex
 		# "pdx_23869 Arcane Legacy"
 		mana_crystals
 		arcane_technology
