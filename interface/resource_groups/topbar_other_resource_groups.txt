@@ -707,6 +707,17 @@ tb_others_group = {
 		mana_crystals
 		arcane_technology
 		arcane_insights
+		# "ecocontinuity SteamID"
+		ecocontinuity
+		# "精灵少女幻想曲 2965280666"
+		sr_semen
+		sr_elemental_crystal
+		sr_pantyhose_slave
+		sr_semen_ten
+		sr_live_pantyhose
+		sr_pantyhose_sister
+		sr_theta
+		sr_st
 		# "SteamID and mod name unknown"
 		mtp_tanatnim
 		mtp_elementenzyme
