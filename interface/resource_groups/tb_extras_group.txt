@@ -716,6 +716,9 @@ tb_extras_group = {
 		sr_pantyhose_sister
 		sr_theta
 		sr_st
+		# "20's Pack Of Galactic Nightmares 2872955491"
+		inner_power
+		congealing_power
 		# "SteamID and mod name unknown"
 		mtp_tanatnim
 		mtp_elementenzyme
