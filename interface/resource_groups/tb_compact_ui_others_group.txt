@@ -718,6 +718,18 @@ tb_compact_ui_others_group = {
 		# "20's Pack Of Galactic Nightmares 2872955491"
 		inner_power
 		congealing_power
+		# "Five Spirits Stars 3007974979"
+		yineng
+		fengmotie
+		guangyingshi
+		anyingshi
+		jinyingshi
+		muyingshi
+		shuiyingshi
+		huoyingshi
+		tuyingshi
+		guangyingshi_ex
+		anyingshi_ex
 		# "SteamID and mod name unknown"
 		mtp_tanatnim
 		mtp_elementenzyme
