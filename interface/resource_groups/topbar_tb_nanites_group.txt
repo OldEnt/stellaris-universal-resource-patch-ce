@@ -727,6 +727,8 @@ tb_nanites_group = {
 		tuyingshi
 		guangyingshi_ex
 		anyingshi_ex
+		# "塞壬0.0.1 2992434041"
+		meta_mind_cube
 		# "SteamID and mod name unknown"
 		mtp_tanatnim
 		mtp_elementenzyme
