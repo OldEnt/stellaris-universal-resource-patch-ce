@@ -733,6 +733,9 @@ tb_extras_group = {
 		anyingshi_ex
 		# "塞壬0.0.1 2992434041"
 		meta_mind_cube
+		# "Sparble's Stellar Hyperconstructs 3022132203"
+		sr_cultrobium
+		sr_hydrogen
 		# "SteamID and mod name unknown"
 		mtp_tanatnim
 		mtp_elementenzyme
