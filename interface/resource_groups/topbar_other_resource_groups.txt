@@ -738,6 +738,7 @@ tb_others_group = {
 		# "Sparble's Stellar Hyperconstructs 3022132203"
 		sr_cultrobium
 		sr_hydrogen
+		sr_conscious_matter
 		# "SteamID and mod name unknown"
 		mtp_tanatnim
 		mtp_elementenzyme
