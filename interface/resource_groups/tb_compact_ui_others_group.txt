@@ -736,6 +736,10 @@ tb_compact_ui_others_group = {
 		sr_cultrobium
 		sr_hydrogen
 		sr_conscious_matter
+		# "Varied Monster Girls 2929251617"
+		lust_crystal
+		best_slaves
+		sr_lewd_princess
 		# "SteamID and mod name unknown"
 		mtp_tanatnim
 		mtp_elementenzyme
