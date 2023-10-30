@@ -743,6 +743,13 @@ tb_others_group = {
 		lust_crystal
 		best_slaves
 		sr_lewd_princess
+		# "Stellaris Evolved 2602025201"
+		sr_tec_ai_power
+		# sr_tec_machine_processing_local	# presumably hidden
+		# sr_tec_machine_processing_empire	# presumably hidden
+		# sr_tec_machine_processing_redirection	# presumably hidden
+		# sr_tec_biomass	# presumably hidden
+		# ai_unobtainium	# presumably hidden
 		# "SteamID and mod name unknown"
 		mtp_tanatnim
 		mtp_elementenzyme
