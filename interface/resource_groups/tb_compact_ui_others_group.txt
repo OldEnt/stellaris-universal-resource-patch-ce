@@ -747,6 +747,10 @@ tb_compact_ui_others_group = {
 		# sr_tec_machine_processing_redirection	# presumably hidden
 		# sr_tec_biomass	# presumably hidden
 		# ai_unobtainium	# presumably hidden
+		# "东方~远星纪行	2848972317"
+		touhou_power
+		touhou_point
+		touhou_bomb
 		# "SteamID and mod name unknown"
 		mtp_tanatnim
 		mtp_elementenzyme
