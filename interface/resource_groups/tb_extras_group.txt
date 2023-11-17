@@ -6,6 +6,7 @@ tb_extras_group = {
 		sr_dark_matter
 		nanites
 		minor_artifacts
+		astral_threads
 		# "688086068	ST: New Horizons"
 		sr_latinum
 		sr_crew
