@@ -1,6 +1,6 @@
 # Extra resources (Compatibility for Compact UI Topbar)
 tp_compact_ui_others_group_2 = {
-	minimum_height = 25
+	minimum_height = 28
 	# Stellaris Base Game
 	category = {
 		name = "EXCEPTIONAL_MATERIALS" 
@@ -10,7 +10,6 @@ tp_compact_ui_others_group_2 = {
 		}
 		onclick = discoveries 
 		show_only_if_owned = yes
-		additional_element_height = 24 
 	}
 	category = {
 		name = "CRISIS_TAB" 
@@ -22,6 +21,8 @@ tp_compact_ui_others_group_2 = {
 	}
 	# Modded
 	category = {
+		name = "MODDED_RESOURCES_TITLE" 
+		additional_element_height = 120
 		resources = {
 			# "688086068	ST: New Horizons"
 			sr_latinum

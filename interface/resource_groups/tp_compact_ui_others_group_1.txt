@@ -33,6 +33,7 @@ tp_compact_ui_others_group_1 = {
 	# Modded
 	category = {
 		name = "MODDED_RESOURCES_TITLE" 
+		additional_element_height = 120
 		resources = {
 			# "688086068	ST: New Horizons"
 			sr_latinum
