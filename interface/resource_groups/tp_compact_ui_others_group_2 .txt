@@ -1163,5 +1163,4 @@ tp_compact_ui_others_group_2 = {
 		"RESOURCE_GROUP_STORED_NUL_BALANCE_INT" = { stored = 0   total_balance > 0 }
 		"RESOURCE_GROUP_DEFAULT_NUL"            = { stored = 0   total_balance = 0 }
 	}
-	onclick = market
 }

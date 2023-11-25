@@ -1053,9 +1053,10 @@ tp_compact_ui_others_group_1 = {
 		}
 		onclick = market
 	}
+	
 	localization = {
 		"RESOURCE_GROUP_DEFAULT_NUL" = default
-		
+			
 		# Negative with reserves, total positive
 		"RESOURCE_GROUP_STORED_DEC_BALANCE_DEC_NEG_RSV_TOTAL_POS"
 		= { stored >= 1000000 stored < 10000000   balance > -10000 balance < 0   total_balance >= 1000000 total_balance < 10000000 }
