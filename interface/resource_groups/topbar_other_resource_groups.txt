@@ -755,6 +755,13 @@ tb_others_group = {
 		touhou_power
 		touhou_point
 		touhou_bomb
+		# "Voyage to Eternity - Kemomimi Girl Species and More 2766998502"
+		KZ_VOY_zero_g_crystal
+		KZ_VOY_dilithium_crystal
+		KZ_VOY_stellar_core
+		KZ_VOY_hyperstructure_alloys
+		KZ_VOY_terran_artifacts
+		KZ_VOY_stellar_sakura
 		# "SteamID and mod name unknown"
 		mtp_tanatnim
 		mtp_elementenzyme
