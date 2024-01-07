@@ -8,9 +8,14 @@ tp_compact_ui_others_group_1 = {
 			sr_zro
 			sr_dark_matter
 			sr_living_metal
-			nanites
 		}
 		onclick = market
+	}
+	category = {
+		resources = {
+			nanites
+		}
+		onclick = edicts_and_policies
 	}
 	category = {
 		name = "EXCEPTIONAL_MATERIALS" 
@@ -35,6 +40,15 @@ tp_compact_ui_others_group_1 = {
 		name = "MODDED_RESOURCES_TITLE" 
 		additional_element_height = 120
 		resources = {
+			volatile_motes
+			exotic_gases
+			rare_crystals
+			sr_living_metal
+			sr_zro
+			sr_dark_matter
+			nanites
+			minor_artifacts
+			astral_threads
 			# "688086068	ST: New Horizons"
 			sr_latinum
 			sr_crew
@@ -788,6 +802,8 @@ tp_compact_ui_others_group_1 = {
 			KZ_VOY_hyperstructure_alloys
 			KZ_VOY_terran_artifacts
 			KZ_VOY_stellar_sakura
+			# "居民休眠计划 3130538805"
+			stellaris_sleep_rest_cabin_resource
 			# "SteamID and mod name unknown"
 			mtp_tanatnim
 			mtp_elementenzyme
@@ -1060,10 +1076,9 @@ tp_compact_ui_others_group_1 = {
 		}
 		onclick = market
 	}
-	
 	localization = {
 		"RESOURCE_GROUP_DEFAULT_NUL" = default
-			
+		
 		# Negative with reserves, total positive
 		"RESOURCE_GROUP_STORED_DEC_BALANCE_DEC_NEG_RSV_TOTAL_POS"
 		= { stored >= 1000000 stored < 10000000   balance > -10000 balance < 0   total_balance >= 1000000 total_balance < 10000000 }
@@ -1138,13 +1153,13 @@ tp_compact_ui_others_group_1 = {
 		= { stored >= 1000000 stored < 10000000   balance < 0   total_balance > -10000 total_balance <= -1000 }
 		"RESOURCE_GROUP_STORED_DEC_BALANCE_DEC_NEG"
 		= { stored >= 1000000 stored < 10000000   balance < 0   total_balance > -10    total_balance <= -0.1 }
-		"RESOURCE_GROUP_STORED_INT_BALANCE_DEC_NEG" 
+		"RESOURCE_GROUP_STORED_DEC_BALANCE_INT_NEG"
 		= { stored >= 1000000 stored < 10000000   balance < 0 }
 		"RESOURCE_GROUP_STORED_DEC_BALANCE_DEC_NEG"
 		= { stored >= 1000 stored < 10000   balance < 0   total_balance > -10000 total_balance <= -1000 }
 		"RESOURCE_GROUP_STORED_DEC_BALANCE_DEC_NEG"
 		= { stored >= 1000 stored < 10000   balance < 0   total_balance > -10    total_balance <= -0.1 }
-		"RESOURCE_GROUP_STORED_INT_BALANCE_DEC_NEG"
+		"RESOURCE_GROUP_STORED_DEC_BALANCE_INT_NEG"
 		= { stored >= 1000 stored < 10000   balance < 0 }
 		
 		"RESOURCE_GROUP_STORED_INT_BALANCE_DEC_NEG" = { balance < 0   total_balance > -10000 total_balance <= -1000 }

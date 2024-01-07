@@ -1,22 +1,7 @@
 # Extra resources (Compatibility for Compact UI Topbar)
-tp_compact_ui_others_group_2 = {
+tp_compact_ui_others_group_3 = {
 	minimum_height = 28
 	# Stellaris Base Game
-	category = {
-		name = "RARE_RESOURCES" 
-		resources = {
-			sr_zro
-			sr_dark_matter
-			sr_living_metal
-		}
-		onclick = market
-	}
-	category = {
-		resources = {
-			nanites
-		}
-		onclick = edicts_and_policies
-	}
 	category = {
 		name = "CRISIS_TAB" 
 		resources = {
