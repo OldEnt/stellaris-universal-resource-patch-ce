@@ -762,6 +762,8 @@ tb_extras_group = {
 		KZ_VOY_stellar_sakura
 		# "居民休眠计划 3130538805"
 		stellaris_sleep_rest_cabin_resource
+		# "titan 2667950963"
+		titan_soul
 		# "SteamID and mod name unknown"
 		mtp_tanatnim
 		mtp_elementenzyme
