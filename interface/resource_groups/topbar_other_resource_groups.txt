@@ -524,7 +524,7 @@ tb_others_group = {
 		# "2426344305 SteamID Space Whaling"
 		tiyanki_milk
 		# "1881901372 Stephan's Elemental Economy"
-		sr_hydrogen
+		# sr_hydrogen	# duplicate
 		sr_helium_3
 		sr_carbon
 		sr_ammonia
@@ -766,6 +766,8 @@ tb_others_group = {
 		stellaris_sleep_rest_cabin_resource
 		# "titan 2667950963"
 		titan_soul
+		# "The Emissary Of Endtime 3104960449"
+		# larva		# duplicate
 		# "SteamID and mod name unknown"
 		mtp_tanatnim
 		mtp_elementenzyme
@@ -778,7 +780,6 @@ tb_others_group = {
 		ukn_e3z0
 		ukn_tachyons
 		# "Universal Resource Patch slots"
-		urp_000
 		urp_000
 		urp_001
 		urp_002
