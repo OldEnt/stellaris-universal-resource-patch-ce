@@ -761,6 +761,9 @@ tb_nanites_group = {
 		titan_soul
 		# "The Emissary Of Endtime 3104960449"
 		# larva		# duplicate
+		# "Skogen787 SteamID"
+		stz_sr_caerulenite
+		stz_sr_viridisium
 		# "SteamID and mod name unknown"
 		mtp_tanatnim
 		mtp_elementenzyme
