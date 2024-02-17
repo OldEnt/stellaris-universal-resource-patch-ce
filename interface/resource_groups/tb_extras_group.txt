@@ -769,6 +769,8 @@ tb_extras_group = {
 		# "Skogen787 SteamID"
 		stz_sr_caerulenite
 		stz_sr_viridisium
+		# "force728 SteamID"
+		purifier_solarite
 		# "SteamID and mod name unknown"
 		mtp_tanatnim
 		mtp_elementenzyme
