@@ -780,6 +780,7 @@ tp_compact_ui_others_group_1 = {
 			sr_cultrobium
 			sr_hydrogen
 			sr_conscious_matter
+			sr_nuclei_soup
 			# "Varied Monster Girls 2929251617"
 			lust_crystal
 			best_slaves
