@@ -814,6 +814,8 @@ tp_compact_ui_others_group_1 = {
 			stz_sr_viridisium
 			# "force728 SteamID"
 			purifier_solarite
+			# "DarkSpace 2719075597"
+			ds_sr_cam
 			# "SteamID and mod name unknown"
 			mtp_tanatnim
 			mtp_elementenzyme
