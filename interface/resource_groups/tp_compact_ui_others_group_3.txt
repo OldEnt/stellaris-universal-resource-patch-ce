@@ -791,6 +791,10 @@ tp_compact_ui_others_group_3 = {
 			purifier_solarite
 			# "DarkSpace 2719075597"
 			ds_sr_cam
+			# "原神（Genshin Impact）|闪耀的群星 2848888776"
+			mola
+			Elemental_crystal_nucleus
+			yuanshi
 			# "SteamID and mod name unknown"
 			mtp_tanatnim
 			mtp_elementenzyme
