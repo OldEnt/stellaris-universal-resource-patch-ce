@@ -778,6 +778,26 @@ tb_extras_group = {
 		mola
 		Elemental_crystal_nucleus
 		yuanshi
+		# "SRH SteamID"
+		CR_Element_Crystal_B1
+		CR_Element_Crystal_B2
+		CR_Element_Crystal_B3
+		CR_Element_Crystal_R1
+		CR_Element_Crystal_R2
+		CR_Element_Crystal_G1
+		CR_Element_Crystal_G2
+		CR_Element_Crystal_T
+		CR_Element_Crystal_Y
+		CR_Element_Crystal_W1
+		CR_Element_Crystal_W2
+		CR_Element_Crystal_D1
+		CR_Element_Crystal_D2
+		CR_Element_Crystal_D3
+		CR_Element_Crystal_M
+		CR_Element_Crystal_TR
+		CR_Element_SRH
+		# "Military Enhancements 2.0 [Invasion Events and More] 3213623064"
+		sr_armaments
 		# "SteamID and mod name unknown"
 		mtp_tanatnim
 		mtp_elementenzyme
