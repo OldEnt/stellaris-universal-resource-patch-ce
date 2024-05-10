@@ -18,9 +18,20 @@ tp_compact_ui_others_group_2 = {
 		onclick = edicts_and_policies
 	}
 	category = {
+		name = "EXCEPTIONAL_MATERIALS" 
+		resources = {
+			minor_artifacts
+			astral_threads
+		}
+		onclick = discoveries 
+		show_only_if_owned = yes
+		additional_element_height = 24 
+	}
+	category = {
 		name = "CRISIS_TAB" 
 		resources = {
 			menace
+			advanced_logic
 		}
 		onclick = crisis
 		show_only_if_owned = yes
@@ -1103,7 +1114,7 @@ tp_compact_ui_others_group_2 = {
 	}
 	localization = {
 		"RESOURCE_GROUP_DEFAULT_NUL" = default
-			
+		
 		# Negative with reserves, total positive
 		"RESOURCE_GROUP_STORED_DEC_BALANCE_DEC_NEG_RSV_TOTAL_POS"
 		= { stored >= 1000000 stored < 10000000   balance > -10000 balance < 0   total_balance >= 1000000 total_balance < 10000000 }

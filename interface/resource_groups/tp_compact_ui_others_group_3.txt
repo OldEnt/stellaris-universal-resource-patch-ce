@@ -3,9 +3,35 @@ tp_compact_ui_others_group_3 = {
 	minimum_height = 28
 	# Stellaris Base Game
 	category = {
+		name = "RARE_RESOURCES" 
+		resources = {
+			sr_zro
+			sr_dark_matter
+			sr_living_metal
+		}
+		onclick = market
+	}
+	category = {
+		resources = {
+			nanites
+		}
+		onclick = edicts_and_policies
+	}
+	category = {
+		name = "EXCEPTIONAL_MATERIALS" 
+		resources = {
+			minor_artifacts
+			astral_threads
+		}
+		onclick = discoveries 
+		show_only_if_owned = yes
+		additional_element_height = 24 
+	}
+	category = {
 		name = "CRISIS_TAB" 
 		resources = {
 			menace
+			advanced_logic
 		}
 		onclick = crisis
 		show_only_if_owned = yes
@@ -1088,7 +1114,7 @@ tp_compact_ui_others_group_3 = {
 	}
 	localization = {
 		"RESOURCE_GROUP_DEFAULT_NUL" = default
-			
+		
 		# Negative with reserves, total positive
 		"RESOURCE_GROUP_STORED_DEC_BALANCE_DEC_NEG_RSV_TOTAL_POS"
 		= { stored >= 1000000 stored < 10000000   balance > -10000 balance < 0   total_balance >= 1000000 total_balance < 10000000 }

@@ -31,6 +31,7 @@ tp_compact_ui_others_group_1 = {
 		name = "CRISIS_TAB" 
 		resources = {
 			menace
+			advanced_logic
 		}
 		onclick = crisis
 		show_only_if_owned = yes
