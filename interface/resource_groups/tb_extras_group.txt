@@ -801,6 +801,10 @@ tb_extras_group = {
 			CR_Element_SRH
 			# "Military Enhancements 2.0 [Invasion Events and More] 3213623064"
 			sr_armaments
+			# "THE ABYSS CONTRACT [深渊契约] 2847901464"
+			TAC_time
+			# "Inverse Void Essence SteamID"
+			epoch_sr_ive
 			# "SteamID and mod name unknown"
 			mtp_tanatnim
 			mtp_elementenzyme
