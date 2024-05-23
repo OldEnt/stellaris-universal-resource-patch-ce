@@ -804,6 +804,8 @@ tb_others_group = {
 			TAC_time
 			# "Inverse Void Essence SteamID"
 			epoch_sr_ive
+			# "Ethics and Civics Alternative - FunEFork 2949463581"
+			ecaf_crew
 			# "SteamID and mod name unknown"
 			mtp_tanatnim
 			mtp_elementenzyme
