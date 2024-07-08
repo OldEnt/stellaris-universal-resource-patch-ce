@@ -780,6 +780,8 @@ tb_others_group = {
 			mola
 			Elemental_crystal_nucleus
 			yuanshi
+			# "Vorpaline Innovations 3116870689"
+			sr_Vorpaline
 			# "SRH SteamID"
 			CR_Element_Crystal_B1
 			CR_Element_Crystal_B2
