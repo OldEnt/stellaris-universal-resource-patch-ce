@@ -808,6 +808,10 @@ tb_nanites_group = {
 			# "Inverse Void Essence SteamID"
 			epoch_sr_ive
 			epoch_sr_voidessence
+			# "Phasetech: Pride of Gods SteamID"
+			pt_phasewave
+			pt_phasemass
+			pt_phase_research
 			# "Ethics and Civics Alternative - FunEFork 2949463581"
 			ecaf_crew
 			# "SteamID and mod name unknown"
