@@ -782,6 +782,7 @@ tp_compact_ui_others_group_3 = {
 			sr_hydrogen
 			sr_conscious_matter
 			sr_nuclei_soup
+			interdim_insights
 			# "Varied Monster Girls 2929251617"
 			lust_crystal
 			best_slaves

@@ -742,6 +742,7 @@ tb_extras_group = {
 			sr_hydrogen
 			sr_conscious_matter
 			sr_nuclei_soup
+			interdim_insights
 			# "Varied Monster Girls 2929251617"
 			lust_crystal
 			best_slaves
