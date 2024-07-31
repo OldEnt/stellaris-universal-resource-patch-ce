@@ -399,13 +399,12 @@ tb_nanites_group = {
 			# "2665584412	Nomadic lifestyle (3.2)"
 			sr_nomadic_population
 			# "2785989313 Assault Lily Species"
-			# AL_unicorn
+			AL_unicorn
 			AL_magi_crystal
 			AL_magi_crystal_core
 			AL_magi_alloy
 			AL_faith_num
 			AL_arsenal_shop_coin
-			# sr_solar_matter
 			AL_lily_diary
 			AL_magic_bullet
 			# "2677473144	StellarisCraft"	
@@ -816,6 +815,8 @@ tb_nanites_group = {
 			# "Ethics and Civics Alternative - FunEFork 2949463581"
 			ecaf_crew
 			# "SteamID and mod name unknown"
+			sr_solar_matter
+			sr_dwarven_steel
 			mtp_tanatnim
 			mtp_elementenzyme
 			mtp_soulence
