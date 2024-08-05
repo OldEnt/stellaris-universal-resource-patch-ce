@@ -814,6 +814,11 @@ tb_extras_group = {
 			pt_phase_research
 			# "Ethics and Civics Alternative - FunEFork 2949463581"
 			ecaf_crew
+			# "Helldivers 2 Framework 3303329484"
+			sr_HD2_E_710
+			sr_HD2_common_samples
+			sr_HD2_rare_samples
+			sr_HD2_super_samples
 			# "SteamID and mod name unknown"
 			sr_solar_matter
 			sr_dwarven_steel
