@@ -859,6 +859,9 @@ tp_compact_ui_others_group_1 = {
 			sr_HD2_common_samples
 			sr_HD2_rare_samples
 			sr_HD2_super_samples
+			# "HRT in Stellaris 3322261057"
+			sr_estrogen
+			sr_testosterone
 			# "SteamID and mod name unknown"
 			sr_solar_matter
 			sr_dwarven_steel
