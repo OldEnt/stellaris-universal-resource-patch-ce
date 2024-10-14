@@ -821,6 +821,10 @@ tb_others_group = {
 			# "HRT in Stellaris 3322261057"
 			sr_estrogen
 			sr_testosterone
+			# "异界幻想 迷你故事包 3347194603"
+			OF_magicminerals
+			OF_rune
+			OF_magicalloys
 			# "SteamID and mod name unknown"
 			sr_solar_matter
 			sr_dwarven_steel
