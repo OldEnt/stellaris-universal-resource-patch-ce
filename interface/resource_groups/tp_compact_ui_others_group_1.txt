@@ -866,6 +866,10 @@ tp_compact_ui_others_group_1 = {
 			OF_magicminerals
 			OF_rune
 			OF_magicalloys
+			# "Interstellar Ballistic Missile And other Things 2778216767"
+			sr_ibm_nuke_warhead
+			sr_ibm_antimatter_warhead
+			sr_ibm_darkmatter_warhead
 			# "SteamID and mod name unknown"
 			sr_solar_matter
 			sr_dwarven_steel
