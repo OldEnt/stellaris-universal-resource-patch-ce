@@ -830,6 +830,8 @@ tb_nanites_group = {
 			sr_ibm_nuke_warhead
 			sr_ibm_antimatter_warhead
 			sr_ibm_darkmatter_warhead
+			# "Wiirlak Additional Civics & Origins 2425550468"
+			wiirlak_ac_resource_maelstrom_shard
 			# "SteamID and mod name unknown"
 			sr_solar_matter
 			sr_dwarven_steel
