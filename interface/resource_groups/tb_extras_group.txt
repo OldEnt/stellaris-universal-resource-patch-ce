@@ -832,6 +832,15 @@ tb_extras_group = {
 			sr_ibm_darkmatter_warhead
 			# "Wiirlak Additional Civics & Origins 2425550468"
 			wiirlak_ac_resource_maelstrom_shard
+			# "40k Age of Indomitus 3133787332"
+			promethium
+			electronics
+			military_goods
+			spirit_stones
+			scrap
+			gene_seed
+			slaves
+			gods_favor
 			# "SteamID and mod name unknown"
 			sr_solar_matter
 			sr_dwarven_steel
