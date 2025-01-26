@@ -659,6 +659,10 @@ tb_others_group = {
 			sxx_pills
 			sxx_gongfa
 			sxx_qiyun
+			sxx_weapon
+			sxx_xuesha
+			sxx_yuanli
+			sxx_world_power
 			# "BlueArchive species pack 2810064268"
 			sr_pyroxenes
 			sr_keystone
