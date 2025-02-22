@@ -844,6 +844,10 @@ tb_others_group = {
 			gene_seed
 			slaves
 			gods_favor
+			# "星球工程师 3374126062"
+			APE_Planetary_material
+			# "Zro Coke Economy 3429083391"
+			srd_zro_coke
 			# "SteamID and mod name unknown"
 			sr_solar_matter
 			sr_dwarven_steel
