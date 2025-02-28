@@ -816,6 +816,9 @@ tb_extras_group = {
 			pt_phasewave
 			pt_phasemass
 			pt_phase_research
+			pt_scholarian_hyperdata
+			pt_scholarian_alloys
+			pt_scholarian_components
 			# "Ethics and Civics Alternative - FunEFork 2949463581"
 			ecaf_crew
 			# "Helldivers 2 Framework 3303329484"
