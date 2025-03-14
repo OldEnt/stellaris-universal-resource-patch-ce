@@ -892,6 +892,18 @@ tp_compact_ui_others_group_3 = {
 			APE_Planetary_material
 			# "Zro Coke Economy 3429083391"
 			srd_zro_coke
+			# "SteamID icebreaker's mod"
+			# eternium	# divider
+			co_eternium
+			co_quartz
+			co_shadow
+			co_alternium
+			co_dark
+			# divinity	# divider
+			tasa_danium
+			tasa_chronium
+			# k6overseer	# divider
+			ovs_essence
 			# "SteamID and mod name unknown"
 			sr_solar_matter
 			sr_dwarven_steel
