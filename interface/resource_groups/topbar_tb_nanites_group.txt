@@ -819,6 +819,7 @@ tb_nanites_group = {
 			pt_scholarian_hyperdata
 			pt_scholarian_alloys
 			pt_scholarian_components
+			epoch_sr_pve
 			# "Ethics and Civics Alternative - FunEFork 2949463581"
 			ecaf_crew
 			# "Helldivers 2 Framework 3303329484"
