@@ -918,6 +918,8 @@ tp_compact_ui_others_group_2 = {
 			ukn_exions
 			ukn_e3z0
 			ukn_tachyons
+			# "Machine & Robots Expansion: Continued 3163759042"
+			oxr_mdlc_world_machine_core
 			# "Universal Resource Patch slots"
 			urp_000
 			urp_001
