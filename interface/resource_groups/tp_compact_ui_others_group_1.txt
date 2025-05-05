@@ -905,7 +905,7 @@ tp_compact_ui_others_group_1 = {
 			tasa_chronium
 			# k6overseer	# divider
 			ovs_essence
-			# Machines & Robot Expansion Continued 3163759042
+			# "Machines & Robot Expansion Continued 3163759042"
 			oxr_mdlc_world_machine_core
 			oxr_mdlc_bio_pop_drink
 			oxr_mdlc_trashbot_sludge_pop
@@ -913,6 +913,10 @@ tp_compact_ui_others_group_1 = {
 			oxr_mdlc_world_core
 			oxr_mdlc_ringwoodite
 			oxr_mdlc_davemite
+			# "东方project领袖 2983419228"
+			# thl_mana	# presumably hidden
+			# thl_bomb	# presumably hidden
+			thl_spirit
 			# "SteamID and mod name unknown"
 			sr_solar_matter
 			sr_dwarven_steel
