@@ -418,8 +418,12 @@ tp_compact_ui_others_group_2 = {
 			love_juice
 			holylight_crystal
 			sr_christian
-			sr_ten
 			sr_beauty
+			living_tentacles
+			obscene_separation
+			lust_data
+			lust_princess
+			lust_metal
 			# "2621717391	FZ Unique perks 3.1"
 			automatic_drone
 			treasures
