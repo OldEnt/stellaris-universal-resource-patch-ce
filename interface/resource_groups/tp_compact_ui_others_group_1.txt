@@ -917,6 +917,8 @@ tp_compact_ui_others_group_1 = {
 			# thl_mana	# presumably hidden
 			# thl_bomb	# presumably hidden
 			thl_spirit
+			# "Infinite Warfare- SDF 3454724216"
+			sdf_nickel
 			# "SteamID and mod name unknown"
 			sr_solar_matter
 			sr_dwarven_steel
