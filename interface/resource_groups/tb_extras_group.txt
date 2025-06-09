@@ -378,6 +378,7 @@ tb_extras_group = {
 			love_juice
 			holylight_crystal
 			sr_christian
+			sr_ten
 			sr_beauty
 			living_tentacles
 			obscene_separation
