@@ -97,6 +97,14 @@ tp_compact_ui_others_group_3 = {
 			ehof_sr_negative_mass
 			ehof_sr_sentient_metal
 			giga_sr_amb_megaconstruction
+			# added post 4.0
+			giga_sr_catalyst
+			giga_sr_iodizium
+			giga_sr_bulk_matter
+			giga_sr_quasaric_energy
+			giga_sr_psionic_sublimate
+			giga_sr_negative_mass
+			giga_sr_sentient_metal
 			# "1346877266	APSR: Anomalies, Planetary and Space Resources"
 			apsr_knowledge
 			# "1419304439	Ancient Cache of Technologies"
