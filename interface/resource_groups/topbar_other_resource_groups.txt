@@ -891,6 +891,8 @@ tb_others_group = {
 			thl_spirit
 			# "Infinite Warfare- SDF 3454724216"
 			sdf_nickel
+			# "Flesh-Rooted Hive Mod 3514881689"
+			sr_biolytic_mass
 			# "SteamID and mod name unknown"
 			sr_solar_matter
 			sr_dwarven_steel
