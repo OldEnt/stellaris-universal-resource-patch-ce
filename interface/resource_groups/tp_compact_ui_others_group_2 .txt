@@ -821,6 +821,12 @@ tp_compact_ui_others_group_2 = {
 			KZ_VOY_hyperstructure_alloys
 			KZ_VOY_terran_artifacts
 			KZ_VOY_stellar_sakura
+			KZ_VOY_cavorites
+			KZ_VOY_astraldites
+			KZ_VOY_stellar_core
+			KZ_VOY_hyperstructure_alloys
+			KZ_VOY_astral_sakura
+			KZ_VOY_hive_slave
 			# "居民休眠计划 3130538805"
 			stellaris_sleep_rest_cabin_resource
 			# "titan 2667950963"
