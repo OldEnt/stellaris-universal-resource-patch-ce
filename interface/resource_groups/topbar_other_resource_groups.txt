@@ -831,6 +831,13 @@ tb_others_group = {
 			pt_scholarian_hyperdata
 			pt_scholarian_alloys
 			pt_scholarian_components
+			ros_faustp
+			ros_paliscrepethium
+			ros_pendtler
+			ros_phenryl
+			ros_prydwenthium
+			ros_sokclaria
+			ros_verkerite
 			epoch_sr_pve
 			# "Ethics and Civics Alternative - FunEFork 2949463581"
 			ecaf_crew
@@ -893,6 +900,8 @@ tb_others_group = {
 			sdf_nickel
 			# "Flesh-Rooted Hive Mod 3514881689"
 			sr_biolytic_mass
+			# "邦多利大少女乐团国 3491727485"
+			sr_stars
 			# "SteamID and mod name unknown"
 			sr_solar_matter
 			sr_dwarven_steel
