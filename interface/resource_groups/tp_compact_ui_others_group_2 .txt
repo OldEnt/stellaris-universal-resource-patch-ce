@@ -886,6 +886,7 @@ tp_compact_ui_others_group_2 = {
 			ros_sokclaria
 			ros_verkerite
 			epoch_sr_pve
+			tcr_substrate
 			# "Ethics and Civics Alternative - FunEFork 2949463581"
 			ecaf_crew
 			# "Helldivers 2 Framework 3303329484"

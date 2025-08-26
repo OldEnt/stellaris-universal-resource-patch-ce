@@ -846,6 +846,7 @@ tb_extras_group = {
 			ros_sokclaria
 			ros_verkerite
 			epoch_sr_pve
+			tcr_substrate
 			# "Ethics and Civics Alternative - FunEFork 2949463581"
 			ecaf_crew
 			# "Helldivers 2 Framework 3303329484"
