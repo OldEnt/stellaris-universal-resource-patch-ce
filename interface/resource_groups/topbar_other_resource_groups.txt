@@ -909,6 +909,24 @@ tb_others_group = {
 			sr_biolytic_mass
 			# "邦多利大少女乐团国 3491727485"
 			sr_stars
+			# "MODJAM2025 3504405585"
+			coex_mental_authority
+			information_seal
+			darktec_contained_entropy
+			dream_motes
+			ds_mirror_insight
+			dtm_faith
+			hcp_mining_efficiency
+			kt_killing_tithe
+			occult_knowledge
+			MJ25_WH_void_whispers
+			mjarchitect_cognitive_matter
+			otc_temporal_fabric
+			pdivinity_psionic_strength
+			php_hegemony
+			tup_utopic_energy
+			veu_waste
+			wiirlak_ep_resource_mycogrowth
 			# "SteamID and mod name unknown"
 			sr_solar_matter
 			sr_dwarven_steel
