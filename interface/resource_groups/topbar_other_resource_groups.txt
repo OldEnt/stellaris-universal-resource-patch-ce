@@ -927,6 +927,8 @@ tb_others_group = {
 			tup_utopic_energy
 			veu_waste
 			wiirlak_ep_resource_mycogrowth
+			# "群星-星流科技Stellaris-ExoTech 3509890892"
+			Draedon_exo_prism
 			# "SteamID and mod name unknown"
 			sr_solar_matter
 			sr_dwarven_steel
