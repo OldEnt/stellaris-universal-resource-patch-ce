@@ -989,6 +989,26 @@ tp_compact_ui_others_group_2 = {
 			# sr_alpha
 			# sr_se
 			# sr_uf
+			#	"柚子社 SteamID"
+			fragment_of_heart
+			#	"爆炸起源 SteamID"
+			sr_worldcrasher_energy
+			#	"苍辉银河 SteamID"
+			sr_arthuria_element
+			sr_fgosw_saint_quartz
+			sr_fgosw_quantum_piece
+			sr_fgosw_prism
+			sr_fgosw_prism_w
+			sr_fgosw_prism_r
+			sr_fgosw_bronze_apple
+			sr_fgosw_silver_apple
+			sr_fgosw_golden_apple
+			#	"皑茵世界旅行指南 SteamID"
+			megami_stone
+			#	"科学革命 SteamID"
+			conscious_life
+			#	"灰蛊 SteamID"
+			tenkei_lmd_particle
 			# "SteamID and mod name unknown"
 			sr_solar_matter
 			sr_dwarven_steel
