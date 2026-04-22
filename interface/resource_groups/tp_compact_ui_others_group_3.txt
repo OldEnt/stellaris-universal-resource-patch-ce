@@ -887,6 +887,9 @@ tp_compact_ui_others_group_3 = {
 			ros_verkerite
 			epoch_sr_pve
 			tcr_substrate
+			im_infinitymatter
+			im_infinityenergy
+			im_infinitypoints
 			# "Ethics and Civics Alternative - FunEFork 2949463581"
 			ecaf_crew
 			# "Helldivers 2 Framework 3303329484"
@@ -1363,4 +1366,5 @@ tp_compact_ui_others_group_3 = {
 		"RESOURCE_GROUP_STORED_NUL_BALANCE_INT" = { stored = 0   total_balance > 0 }
 		"RESOURCE_GROUP_DEFAULT_NUL"            = { stored = 0   total_balance = 0 }
 	}
+	desc = "concept_strategic_resources_tooltip"
 }
