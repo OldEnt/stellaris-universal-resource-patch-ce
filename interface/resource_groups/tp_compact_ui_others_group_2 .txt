@@ -22,6 +22,7 @@ tp_compact_ui_others_group_2 = {
 		resources = {
 			minor_artifacts
 			astral_threads
+			entropy_crystals
 		}
 		onclick = discoveries 
 		show_only_if_owned = yes
