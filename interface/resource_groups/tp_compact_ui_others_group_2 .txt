@@ -974,6 +974,19 @@ tp_compact_ui_others_group_2 = {
 			wiirlak_ep_resource_mycogrowth
 			# "群星-星流科技Stellaris-ExoTech 3509890892"
 			Draedon_exo_prism
+			# "WFP_Stellaris_0.989_AT 3631595747"
+			sr_wfp_lattice_source_crystal
+			sr_wfp_crystal_frame
+			sr_wfp_lattice_matrix
+			# originiums
+			# d32_steels
+			# multipole_nanosheets
+			# arkseaborn_cells
+			# sr_pantsu
+			# sr_neo
+			# sr_alpha
+			# sr_se
+			# sr_uf
 			# "SteamID and mod name unknown"
 			sr_solar_matter
 			sr_dwarven_steel
