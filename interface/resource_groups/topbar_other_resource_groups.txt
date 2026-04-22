@@ -878,6 +878,8 @@ tb_others_group = {
 			gene_seed
 			slaves
 			gods_favor
+			wraithbone
+			teef
 			# "星球工程师 3374126062"
 			APE_Planetary_material
 			# "Zro Coke Economy 3429083391"
