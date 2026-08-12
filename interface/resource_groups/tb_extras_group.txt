@@ -210,7 +210,7 @@ tb_extras_group = {
 			acot_sr_light_matter
 			acot_sr_bandwidth
 			acot_sr_essence
-			# "2417206619	Interstellar Voyagers（the Journey of Elaina Species Pack)"
+			# "2417206619 / 3655874540 Interstellar Voyagers（the Journey of Elaina Species Pack) / Wandering Witch: Voyagers"
 			sr_carolin_crystals
 			# "2424357162	马自立科技"
 			sr_qingchu
@@ -950,6 +950,8 @@ tb_extras_group = {
 			# sr_alpha
 			# sr_se
 			# sr_uf
+			# L.O.R.E. - Chapter I: The Great Oggoth Horde 3778186040"
+			lore_contraband
 			#	"柚子社 SteamID"
 			fragment_of_heart
 			#	"爆炸起源 SteamID"
@@ -1254,6 +1256,40 @@ tb_extras_group = {
 		onclick = discoveries
 		show_only_if_owned = yes
 		additional_element_height = 25
+	}
+
+	category = {
+		name = "CRISIS_TAB" 
+		resources = {
+			menace
+			advanced_logic
+			feral_insight
+			integrity
+		}
+		onclick = crisis
+		show_only_if_owned = yes
+		additional_element_height = 25
+	}
+
+	category = {
+		# "Ancient Empire 2389589691"
+		name = "ag_exceptional_resources"
+		resources = {
+			ag_ancient_knowledge
+			ag_ancient_artifact
+			ag_high_purity_zro
+			ag_sr_amber
+			ag_class_5_singularity
+			ag_matter_generator
+			ag_fabrication_facility
+			ag_ancient_unknown_building
+			ag_ancient_environment_facility
+			ag_ancient_celestial_dome
+			ag_dimensional_storage
+			ag_building_master_archive
+		}
+		show_only_if_owned = yes
+		additional_element_height = 100
 	}
 
 	localization = {
