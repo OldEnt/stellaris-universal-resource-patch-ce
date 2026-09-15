@@ -39,26 +39,6 @@ tp_compact_ui_others_group_1 = {
 		onclick = crisis
 		show_only_if_owned = yes
 	}
-	category = {
-		# "Ancient Empire 2389589691"
-		name = "ag_exceptional_resources"
-		resources = {
-			ag_ancient_knowledge
-			ag_ancient_artifact
-			ag_high_purity_zro
-			ag_sr_amber
-			ag_class_5_singularity
-			ag_matter_generator
-			ag_fabrication_facility
-			ag_ancient_unknown_building
-			ag_ancient_environment_facility
-			ag_ancient_celestial_dome
-			ag_dimensional_storage
-			ag_building_master_archive
-		}
-		show_only_if_owned = yes
-		additional_element_height = 100
-	}
 	# Modded
 	category = {
 		name = "MODDED_RESOURCES_TITLE" 
@@ -520,16 +500,16 @@ tp_compact_ui_others_group_1 = {
 			riggan
 			sr_light_gases
 			sr_natural_liquids
-			# sr_garanthium # presumably hidden
+			sr_garanthium
 			sr_lythuric
 			sr_engos
 			sr_teldar
 			sr_pitharan
 			sr_orillium
-			# sr_neutronium	 # presumably hidden
+			sr_neutronium
 			sr_betharian
 			sr_alien_pets
-			# sr_satramene	 # presumably hidden
+			sr_satramene
 			# "865040033 Guilli's Planet Modifiers and Features"
 			gpm_arcane_technology		# old
 			# "2332313037 GAPS: Gwen's Additional Play Styles"
@@ -1013,8 +993,33 @@ tp_compact_ui_others_group_1 = {
 			# sr_alpha
 			# sr_se
 			# sr_uf
-			# L.O.R.E. - Chapter I: The Great Oggoth Horde 3778186040"
+			# "L.O.R.E. - Chapter I: The Great Oggoth Horde 3778186040"
 			lore_contraband
+			# "Ancient Empire 2389589691"
+			ag_ancient_knowledge
+			ag_ancient_artifact
+			ag_high_purity_zro
+			ag_sr_amber
+			ag_class_5_singularity
+			ag_matter_generator
+			ag_fabrication_facility
+			ag_ancient_unknown_building
+			ag_ancient_environment_facility
+			ag_ancient_celestial_dome
+			ag_dimensional_storage
+			ag_building_master_archive
+			# "Ethics and Civics Classic 1100284147"
+			primitive_uranium
+			# "HSR SteamID"
+			HSR_sr_stellar_law_crystal
+			# "崩坏：星穹铁道 | Honkai: Star Rail 2982710154"
+			star_trek_armour
+			# Elemental_crystal_nucleus	# duplicate
+			# yuanshi	# duplicate
+			# mola	# duplicate
+			yuzhousuipian
+			# "Interdimensional Authority Civic SteamID"
+			sr_spacetime_stability
 			#	"柚子社 SteamID"
 			fragment_of_heart
 			#	"爆炸起源 SteamID"
