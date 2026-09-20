@@ -1018,6 +1018,8 @@ tp_compact_ui_others_group_2 = {
 			# yuanshi	# duplicate
 			# mola	# duplicate
 			yuzhousuipian
+			# "TyphoeusSwarmRemastered 3099178668"
+			biomass_typh
 			# "Interdimensional Authority Civic SteamID"
 			sr_spacetime_stability
 			#	"柚子社 SteamID"
