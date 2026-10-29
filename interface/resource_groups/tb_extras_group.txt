@@ -826,7 +826,7 @@ tb_extras_group = {
 			CR_Element_Crystal_M
 			CR_Element_Crystal_TR
 			CR_Element_SRH
-			# "Military Enhancements 2.0 [Invasion Events and More] 3213623064"
+			# "Military Enhancements 2.0 [Invasion Events and More] 3213623064 3819915654"
 			sr_armaments
 			# "THE ABYSS CONTRACT [深渊契约] 2847901464"
 			TAC_time
@@ -952,6 +952,7 @@ tb_extras_group = {
 			# sr_uf
 			# "L.O.R.E. - Chapter I: The Great Oggoth Horde 3778186040"
 			lore_contraband
+			lore_illicit_goods
 			# "Ancient Empire 2389589691"
 			ag_ancient_knowledge
 			ag_ancient_artifact
@@ -975,6 +976,8 @@ tb_extras_group = {
 			# yuanshi	# duplicate
 			# mola	# duplicate
 			yuzhousuipian
+			# "TyphoeusSwarmRemastered 3099178668"
+			biomass_typh
 			# "Interdimensional Authority Civic SteamID"
 			sr_spacetime_stability
 			#	"柚子社 SteamID"
